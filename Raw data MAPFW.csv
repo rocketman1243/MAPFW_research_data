@@ -1,0 +1,1060 @@
+benchmark,algorithm,version,time,cost,solved
+Average Grade 1,A*+OD+ID,correct TSP cache (TU),611,441,t
+Average Grade 1,A*+OD+ID,correct TSP cache (TU),320,372,t
+Average Grade 1,A*+OD+ID,correct TSP cache (TU),329,450,t
+Average Grade 1,A*+OD+ID,correct TSP cache (TU),338,398,t
+Average Grade 1,A*+OD+ID,correct TSP cache (TU),365,458,t
+Average Grade 1,A*+OD+ID,correct TSP cache (TU),369,401,t
+Average Grade 1,A*+OD+ID,correct TSP cache (TU),326,442,t
+Average Grade 1,A*+OD+ID,correct TSP cache (TU),349,416,t
+Average Grade 1,A*+OD+ID,correct TSP cache (TU),1820,382,t
+Average Grade 1,A*+OD+ID,correct TSP cache (TU),350,438,t
+Average Grade 1,BCP,heuristic-based waypoints 64 (TUD),100,412,t
+Average Grade 1,BCP,heuristic-based waypoints 64 (TUD),156,419,t
+Average Grade 1,BCP,heuristic-based waypoints 64 (TUD),80,397,t
+Average Grade 1,BCP,heuristic-based waypoints 64 (TUD),133,382,t
+Average Grade 1,BCP,heuristic-based waypoints 64 (TUD),217,437,t
+Average Grade 1,BCP,heuristic-based waypoints 64 (TUD),212,418,t
+Average Grade 1,BCP,heuristic-based waypoints 64 (TUD),75,393,t
+Average Grade 1,BCP,heuristic-based waypoints 64 (TUD),199,433,t
+Average Grade 1,BCP,heuristic-based waypoints 64 (TUD),343,451,t
+Average Grade 1,BCP,heuristic-based waypoints 64 (TUD),80,407,t
+Average Grade 1,CBS,(TUD),157,411,t
+Average Grade 1,CBS,(TUD),92,416,t
+Average Grade 1,CBS,(TUD),91,421,t
+Average Grade 1,CBS,(TUD),90,377,t
+Average Grade 1,CBS,(TUD),193,386,t
+Average Grade 1,CBS,(TUD),189,371,t
+Average Grade 1,CBS,(TUD),93,473,t
+Average Grade 1,CBS,(TUD),133,437,t
+Average Grade 1,CBS,(TUD),99,340,t
+Average Grade 1,CBS,(TUD),107,418,t
+Average Grade 1,M*,Python inflated,78,418,t
+Average Grade 1,M*,Python inflated,266,380,t
+Average Grade 1,M*,Python inflated,94,372,t
+Average Grade 1,M*,Python inflated,94,443,t
+Average Grade 1,M*,Python inflated,94,449,t
+Average Grade 1,M*,Python inflated,250,429,t
+Average Grade 1,M*,Python inflated,94,422,t
+Average Grade 1,M*,Python inflated,93,396,t
+Average Grade 1,M*,Python inflated,95,439,t
+Average Grade 1,M*,Python inflated,78,457,t
+Average Grade 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",58,489,t
+Average Grade 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",54,493,t
+Average Grade 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",94,568,t
+Average Grade 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",61,502,t
+Average Grade 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",66,490,t
+Average Grade 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",63,521,t
+Average Grade 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",83,528,t
+Average Grade 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",72,430,t
+Average Grade 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",56,502,t
+Average Grade 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",85,565,t
+Average Grade 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",89,594,t
+Average Grade 2,A*+OD+ID,correct TSP cache (TU),346,445,t
+Average Grade 2,A*+OD+ID,correct TSP cache (TU),335,426,t
+Average Grade 2,A*+OD+ID,correct TSP cache (TU),316,455,t
+Average Grade 2,A*+OD+ID,correct TSP cache (TU),718,379,t
+Average Grade 2,A*+OD+ID,correct TSP cache (TU),306,404,t
+Average Grade 2,A*+OD+ID,correct TSP cache (TU),329,384,t
+Average Grade 2,A*+OD+ID,correct TSP cache (TU),390,464,t
+Average Grade 2,A*+OD+ID,correct TSP cache (TU),325,416,t
+Average Grade 2,A*+OD+ID,correct TSP cache (TU),528,434,t
+Average Grade 2,A*+OD+ID,correct TSP cache (TU),327,391,t
+Average Grade 2,BCP,heuristic-based waypoints 64 (TUD),138,384,t
+Average Grade 2,BCP,heuristic-based waypoints 64 (TUD),85,375,t
+Average Grade 2,BCP,heuristic-based waypoints 64 (TUD),241,460,t
+Average Grade 2,BCP,heuristic-based waypoints 64 (TUD),163,440,t
+Average Grade 2,BCP,heuristic-based waypoints 64 (TUD),109,418,t
+Average Grade 2,BCP,heuristic-based waypoints 64 (TUD),468,426,t
+Average Grade 2,BCP,heuristic-based waypoints 64 (TUD),139,445,t
+Average Grade 2,BCP,heuristic-based waypoints 64 (TUD),92,416,t
+Average Grade 2,BCP,heuristic-based waypoints 64 (TUD),67,398,t
+Average Grade 2,BCP,heuristic-based waypoints 64 (TUD),66,370,t
+Average Grade 2,CBS,(TUD),100,423,t
+Average Grade 2,CBS,(TUD),88,435,t
+Average Grade 2,CBS,(TUD),137,478,t
+Average Grade 2,CBS,(TUD),147,453,t
+Average Grade 2,CBS,(TUD),86,396,t
+Average Grade 2,CBS,(TUD),109,371,t
+Average Grade 2,CBS,(TUD),116,458,t
+Average Grade 2,CBS,(TUD),98,424,t
+Average Grade 2,CBS,(TUD),97,369,t
+Average Grade 2,CBS,(TUD),118,447,t
+Average Grade 2,M*,Python inflated,93,457,t
+Average Grade 2,M*,Python inflated,78,432,t
+Average Grade 2,M*,Python inflated,94,439,t
+Average Grade 2,M*,Python inflated,78,466,t
+Average Grade 2,M*,Python inflated,234,422,t
+Average Grade 2,M*,Python inflated,250,446,t
+Average Grade 2,M*,Python inflated,78,381,t
+Average Grade 2,M*,Python inflated,78,447,t
+Average Grade 2,M*,Python inflated,78,422,t
+Average Grade 2,M*,Python inflated,94,405,t
+Average Grade 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",58,389,t
+Average Grade 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",93,566,t
+Average Grade 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",76,546,t
+Average Grade 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",68,528,t
+Average Grade 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",74,451,t
+Average Grade 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",68,502,t
+Average Grade 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",62,511,t
+Average Grade 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",81,619,t
+Average Grade 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",149,565,t
+Average Grade 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",78,524,t
+Average Grade 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",77,475,t
+Average Grade 3,A*+OD+ID,correct TSP cache (TU),983,509,t
+Average Grade 3,A*+OD+ID,correct TSP cache (TU),247,456,t
+Average Grade 3,A*+OD+ID,correct TSP cache (TU),237,426,t
+Average Grade 3,A*+OD+ID,correct TSP cache (TU),460,491,t
+Average Grade 3,A*+OD+ID,correct TSP cache (TU),568,439,t
+Average Grade 3,A*+OD+ID,correct TSP cache (TU),6828,503,t
+Average Grade 3,A*+OD+ID,correct TSP cache (TU),511,,t
+Average Grade 3,A*+OD+ID,correct TSP cache (TU),433,548,t
+Average Grade 3,A*+OD+ID,correct TSP cache (TU),318,467,t
+Average Grade 3,A*+OD+ID,correct TSP cache (TU),317,479,t
+Average Grade 3,BCP,heuristic-based waypoints 64 (TUD),158,425,t
+Average Grade 3,BCP,heuristic-based waypoints 64 (TUD),112,460,t
+Average Grade 3,BCP,heuristic-based waypoints 64 (TUD),594,497,t
+Average Grade 3,BCP,heuristic-based waypoints 64 (TUD),181,415,t
+Average Grade 3,BCP,heuristic-based waypoints 64 (TUD),102,484,t
+Average Grade 3,BCP,heuristic-based waypoints 64 (TUD),704,518,t
+Average Grade 3,BCP,heuristic-based waypoints 64 (TUD),94,435,t
+Average Grade 3,BCP,heuristic-based waypoints 64 (TUD),109,429,t
+Average Grade 3,BCP,heuristic-based waypoints 64 (TUD),486,539,t
+Average Grade 3,BCP,heuristic-based waypoints 64 (TUD),249,453,t
+Average Grade 3,CBS,(TUD),179,485,t
+Average Grade 3,CBS,(TUD),147,484,t
+Average Grade 3,CBS,(TUD),116,467,t
+Average Grade 3,CBS,(TUD),100,479,t
+Average Grade 3,CBS,(TUD),119,468,t
+Average Grade 3,CBS,(TUD),112,498,t
+Average Grade 3,CBS,(TUD),197,530,t
+Average Grade 3,CBS,(TUD),123,513,t
+Average Grade 3,CBS,(TUD),870,430,t
+Average Grade 3,CBS,(TUD),236,500,t
+Average Grade 3,M*,Python inflated,78,432,t
+Average Grade 3,M*,Python inflated,328,469,t
+Average Grade 3,M*,Python inflated,62,465,t
+Average Grade 3,M*,Python inflated,62,477,t
+Average Grade 3,M*,Python inflated,63,453,t
+Average Grade 3,M*,Python inflated,78,502,t
+Average Grade 3,M*,Python inflated,62,473,t
+Average Grade 3,M*,Python inflated,62,470,t
+Average Grade 3,M*,Python inflated,57,487,t
+Average Grade 3,M*,Python inflated,62,504,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",97,688,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",59,599,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",58,572,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",47,592,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",43,572,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",51,529,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",60,594,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",73,578,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",41,574,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",66,535,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",50,667,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",40,488,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",59,549,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",44,535,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",74,664,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",42,472,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",64,551,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",70,560,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",86,606,t
+Average Grade 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",81,562,t
+Average Grade 4,A*+OD+ID,correct TSP cache (TU),126560,,f
+Average Grade 4,A*+OD+ID,correct TSP cache (TU),123114,,f
+Average Grade 4,A*+OD+ID,correct TSP cache (TU),123204,,f
+Average Grade 4,A*+OD+ID,correct TSP cache (TU),173,,f
+Average Grade 4,A*+OD+ID,correct TSP cache (TU),122404,,f
+Average Grade 4,A*+OD+ID,correct TSP cache (TU),5868,826,t
+Average Grade 4,A*+OD+ID,correct TSP cache (TU),26597,797,t
+Average Grade 4,A*+OD+ID,correct TSP cache (TU),88298,711,t
+Average Grade 4,A*+OD+ID,correct TSP cache (TU),122661,,f
+Average Grade 4,A*+OD+ID,correct TSP cache (TU),122919,,f
+Average Grade 4,BCP,heuristic-based waypoints 64 (TUD),17066,787,t
+Average Grade 4,BCP,heuristic-based waypoints 64 (TUD),119753,837,t
+Average Grade 4,BCP,heuristic-based waypoints 64 (TUD),600009,816,t
+Average Grade 4,BCP,heuristic-based waypoints 64 (TUD),600029,833,t
+Average Grade 4,BCP,heuristic-based waypoints 64 (TUD),81487,877,t
+Average Grade 4,BCP,heuristic-based waypoints 64 (TUD),23447,883,t
+Average Grade 4,BCP,heuristic-based waypoints 64 (TUD),600012,827,t
+Average Grade 4,BCP,heuristic-based waypoints 64 (TUD),14469,699,t
+Average Grade 4,BCP,heuristic-based waypoints 64 (TUD),1440,859,t
+Average Grade 4,BCP,heuristic-based waypoints 64 (TUD),264058,806,t
+Average Grade 4,CBS,(TUD),3026,,f
+Average Grade 4,CBS,(TUD),,,f
+Average Grade 4,CBS,(TUD),3029,,f
+Average Grade 4,CBS,(TUD),3032,,f
+Average Grade 4,CBS,(TUD),3032,,f
+Average Grade 4,CBS,(TUD),3026,,f
+Average Grade 4,CBS,(TUD),3030,,f
+Average Grade 4,CBS,(TUD),3031,,f
+Average Grade 4,CBS,(TUD),3028,,f
+Average Grade 4,CBS,(TUD),3034,,f
+Average Grade 4,M*,Python inflated,78,837,t
+Average Grade 4,M*,Python inflated,70,907,t
+Average Grade 4,M*,Python inflated,62,765,t
+Average Grade 4,M*,Python inflated,60721,,f
+Average Grade 4,M*,Python inflated,31,,f
+Average Grade 4,M*,Python inflated,60718,,f
+Average Grade 4,M*,Python inflated,1578,882,t
+Average Grade 4,M*,Python inflated,109,747,t
+Average Grade 4,M*,Python inflated,219,820,t
+Average Grade 4,M*,Python inflated,109,825,t
+Average Grade 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Average Grade 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Average Grade 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Average Grade 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Average Grade 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Average Grade 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",223,2034,t
+Average Grade 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Average Grade 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Average Grade 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Average Grade 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Average Grade 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Average Grade 5,A*+OD+ID,correct TSP cache (TU),122094,,f
+Average Grade 5,A*+OD+ID,correct TSP cache (TU),124535,,f
+Average Grade 5,A*+OD+ID,correct TSP cache (TU),124421,,f
+Average Grade 5,A*+OD+ID,correct TSP cache (TU),122979,,f
+Average Grade 5,A*+OD+ID,correct TSP cache (TU),122080,,f
+Average Grade 5,A*+OD+ID,correct TSP cache (TU),120478,,f
+Average Grade 5,A*+OD+ID,correct TSP cache (TU),120864,,f
+Average Grade 5,A*+OD+ID,correct TSP cache (TU),120310,,f
+Average Grade 5,A*+OD+ID,correct TSP cache (TU),122481,,f
+Average Grade 5,A*+OD+ID,correct TSP cache (TU),122734,,f
+Average Grade 5,BCP,heuristic-based waypoints 64 (TUD),600111,1267,t
+Average Grade 5,BCP,heuristic-based waypoints 64 (TUD),600009,824,t
+Average Grade 5,BCP,heuristic-based waypoints 64 (TUD),607048,,f
+Average Grade 5,BCP,heuristic-based waypoints 64 (TUD),601276,,f
+Average Grade 5,BCP,heuristic-based waypoints 64 (TUD),607542,,f
+Average Grade 5,BCP,heuristic-based waypoints 64 (TUD),600020,987,t
+Average Grade 5,BCP,heuristic-based waypoints 64 (TUD),603035,,f
+Average Grade 5,BCP,heuristic-based waypoints 64 (TUD),600019,1193,t
+Average Grade 5,BCP,heuristic-based waypoints 64 (TUD),600750,,f
+Average Grade 5,BCP,heuristic-based waypoints 64 (TUD),602697,,f
+Average Grade 5,CBS,(TUD),3029,,f
+Average Grade 5,CBS,(TUD),3028,,f
+Average Grade 5,CBS,(TUD),3038,,f
+Average Grade 5,CBS,(TUD),3036,,f
+Average Grade 5,CBS,(TUD),3036,,f
+Average Grade 5,CBS,(TUD),3027,,f
+Average Grade 5,CBS,(TUD),3028,,f
+Average Grade 5,CBS,(TUD),3026,,f
+Average Grade 5,CBS,(TUD),3030,,f
+Average Grade 5,M*,Python inflated,60593,,f
+Average Grade 5,M*,Python inflated,607288,,f
+Average Grade 5,M*,Python inflated,60765,,f
+Average Grade 5,M*,Python inflated,2000,984,t
+Average Grade 5,M*,Python inflated,60625,,f
+Average Grade 5,M*,Python inflated,6125,991,t
+Average Grade 5,M*,Python inflated,60484,,f
+Average Grade 5,M*,Python inflated,60560,,f
+Average Grade 5,M*,Python inflated,2625,952,t
+Average Grade 5,M*,Python inflated,60562,,f
+Average Grade 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 1,A*+OD+ID,correct TSP cache (TU),646,603,t
+Chokepoints 1,A*+OD+ID,correct TSP cache (TU),1457,617,t
+Chokepoints 1,A*+OD+ID,correct TSP cache (TU),1076,594,t
+Chokepoints 1,A*+OD+ID,correct TSP cache (TU),420,585,t
+Chokepoints 1,A*+OD+ID,correct TSP cache (TU),347,592,t
+Chokepoints 1,A*+OD+ID,correct TSP cache (TU),124105,,f
+Chokepoints 1,A*+OD+ID,correct TSP cache (TU),890,546,t
+Chokepoints 1,A*+OD+ID,correct TSP cache (TU),67133,590,t
+Chokepoints 1,A*+OD+ID,correct TSP cache (TU),6931,589,t
+Chokepoints 1,A*+OD+ID,correct TSP cache (TU),123587,,f
+Chokepoints 1,BCP,heuristic-based waypoints 64 (TUD),2380,593,t
+Chokepoints 1,BCP,heuristic-based waypoints 64 (TUD),728,527,t
+Chokepoints 1,BCP,heuristic-based waypoints 64 (TUD),1770,597,t
+Chokepoints 1,BCP,heuristic-based waypoints 64 (TUD),840,546,t
+Chokepoints 1,BCP,heuristic-based waypoints 64 (TUD),379,535,t
+Chokepoints 1,BCP,heuristic-based waypoints 64 (TUD),356,592,t
+Chokepoints 1,BCP,heuristic-based waypoints 64 (TUD),6272,578,t
+Chokepoints 1,BCP,heuristic-based waypoints 64 (TUD),4568,611,t
+Chokepoints 1,BCP,heuristic-based waypoints 64 (TUD),4878,570,t
+Chokepoints 1,BCP,heuristic-based waypoints 64 (TUD),1756,634,t
+Chokepoints 1,CBS,(TUD),3025,,f
+Chokepoints 1,CBS,(TUD),435,507,t
+Chokepoints 1,CBS,(TUD),286,550,t
+Chokepoints 1,CBS,(TUD),963,639,t
+Chokepoints 1,CBS,(TUD),251,606,t
+Chokepoints 1,CBS,(TUD),320,611,t
+Chokepoints 1,CBS,(TUD),551,618,t
+Chokepoints 1,CBS,(TUD),387,527,t
+Chokepoints 1,CBS,(TUD),154,460,t
+Chokepoints 1,CBS,(TUD),3025,,f
+Chokepoints 1,M*,Python inflated,522,623,t
+Chokepoints 1,M*,Python inflated,219,667,t
+Chokepoints 1,M*,Python inflated,248,584,t
+Chokepoints 1,M*,Python inflated,94,530,t
+Chokepoints 1,M*,Python inflated,94,639,t
+Chokepoints 1,M*,Python inflated,203,558,t
+Chokepoints 1,M*,Python inflated,109,570,t
+Chokepoints 1,M*,Python inflated,141,575,t
+Chokepoints 1,M*,Python inflated,94,444,t
+Chokepoints 1,M*,Python inflated,94,608,t
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",221,811,t
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",145,788,t
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",191,790,t
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",149,716,t
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",253,845,t
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",148,671,t
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",83,661,t
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",201,711,t
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",136,686,t
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",125,739,t
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",156,683,t
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",290,807,t
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",215,821,t
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",307,798,t
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",175,806,t
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",239,799,t
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",140,681,t
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",214,808,t
+Chokepoints 2,A*+OD+ID,correct TSP cache (TU),10385,671,t
+Chokepoints 2,A*+OD+ID,correct TSP cache (TU),74859,589,t
+Chokepoints 2,A*+OD+ID,correct TSP cache (TU),123709,,f
+Chokepoints 2,A*+OD+ID,correct TSP cache (TU),122633,,f
+Chokepoints 2,A*+OD+ID,correct TSP cache (TU),123056,,f
+Chokepoints 2,A*+OD+ID,correct TSP cache (TU),124304,,f
+Chokepoints 2,A*+OD+ID,correct TSP cache (TU),123943,,f
+Chokepoints 2,A*+OD+ID,correct TSP cache (TU),100388,615,t
+Chokepoints 2,A*+OD+ID,correct TSP cache (TU),123459,,f
+Chokepoints 2,A*+OD+ID,correct TSP cache (TU),122105,,f
+Chokepoints 2,BCP,heuristic-based waypoints 64 (TUD),8626,752,t
+Chokepoints 2,BCP,heuristic-based waypoints 64 (TUD),2256,740,t
+Chokepoints 2,BCP,heuristic-based waypoints 64 (TUD),607,628,t
+Chokepoints 2,BCP,heuristic-based waypoints 64 (TUD),221417,680,t
+Chokepoints 2,BCP,heuristic-based waypoints 64 (TUD),3677,734,t
+Chokepoints 2,BCP,heuristic-based waypoints 64 (TUD),2408,546,t
+Chokepoints 2,BCP,heuristic-based waypoints 64 (TUD),24564,645,t
+Chokepoints 2,BCP,heuristic-based waypoints 64 (TUD),18485,681,t
+Chokepoints 2,BCP,heuristic-based waypoints 64 (TUD),36489,674,t
+Chokepoints 2,BCP,heuristic-based waypoints 64 (TUD),7646,649,t
+Chokepoints 2,CBS,(TUD),1338,704,t
+Chokepoints 2,CBS,(TUD),3026,,f
+Chokepoints 2,CBS,(TUD),187,619,t
+Chokepoints 2,CBS,(TUD),3025,,f
+Chokepoints 2,CBS,(TUD),3020,,f
+Chokepoints 2,CBS,(TUD),3024,,f
+Chokepoints 2,CBS,(TUD),2184,637,t
+Chokepoints 2,CBS,(TUD),3033,,f
+Chokepoints 2,CBS,(TUD),3030,,f
+Chokepoints 2,CBS,(TUD),3037,,f
+Chokepoints 2,M*,Python inflated,125,711,t
+Chokepoints 2,M*,Python inflated,308,656,t
+Chokepoints 2,M*,Python inflated,261,607,t
+Chokepoints 2,M*,Python inflated,78,655,t
+Chokepoints 2,M*,Python inflated,125,623,t
+Chokepoints 2,M*,Python inflated,234,609,t
+Chokepoints 2,M*,Python inflated,156,720,t
+Chokepoints 2,M*,Python inflated,390,684,t
+Chokepoints 2,M*,Python inflated,641,707,t
+Chokepoints 2,M*,Python inflated,78,676,t
+Chokepoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",205,879,t
+Chokepoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",346,1026,t
+Chokepoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",271,894,t
+Chokepoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",296,1186,t
+Chokepoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",214,982,t
+Chokepoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",151,1207,t
+Chokepoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",301,1156,t
+Chokepoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",210,775,t
+Chokepoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",432,1125,t
+Chokepoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",251,1067,t
+Chokepoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",308,1189,t
+Chokepoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",488,1200,t
+Chokepoints 3,A*+OD+ID,correct TSP cache (TU),123611,,f
+Chokepoints 3,A*+OD+ID,correct TSP cache (TU),123246,,f
+Chokepoints 3,A*+OD+ID,correct TSP cache (TU),123851,,f
+Chokepoints 3,A*+OD+ID,correct TSP cache (TU),123402,,f
+Chokepoints 3,A*+OD+ID,correct TSP cache (TU),123222,,f
+Chokepoints 3,A*+OD+ID,correct TSP cache (TU),121988,,f
+Chokepoints 3,A*+OD+ID,correct TSP cache (TU),124376,,f
+Chokepoints 3,A*+OD+ID,correct TSP cache (TU),123667,,f
+Chokepoints 3,A*+OD+ID,correct TSP cache (TU),124360,,f
+Chokepoints 3,A*+OD+ID,correct TSP cache (TU),123277,,f
+Chokepoints 3,BCP,heuristic-based waypoints 64 (TUD),306202,561,t
+Chokepoints 3,BCP,heuristic-based waypoints 64 (TUD),600062,657,t
+Chokepoints 3,BCP,heuristic-based waypoints 64 (TUD),600036,678,t
+Chokepoints 3,BCP,heuristic-based waypoints 64 (TUD),1375,515,t
+Chokepoints 3,BCP,heuristic-based waypoints 64 (TUD),209,558,t
+Chokepoints 3,BCP,heuristic-based waypoints 64 (TUD),64244,563,t
+Chokepoints 3,BCP,heuristic-based waypoints 64 (TUD),600070,706,t
+Chokepoints 3,BCP,heuristic-based waypoints 64 (TUD),109386,542,t
+Chokepoints 3,BCP,heuristic-based waypoints 64 (TUD),12368,560,t
+Chokepoints 3,BCP,heuristic-based waypoints 64 (TUD),600026,575,t
+Chokepoints 3,CBS,(TUD),1258,556,t
+Chokepoints 3,CBS,(TUD),3020,,f
+Chokepoints 3,CBS,(TUD),3024,,f
+Chokepoints 3,CBS,(TUD),3034,,f
+Chokepoints 3,CBS,(TUD),3025,,f
+Chokepoints 3,CBS,(TUD),3025,,f
+Chokepoints 3,CBS,(TUD),752,584,t
+Chokepoints 3,CBS,(TUD),3020,,f
+Chokepoints 3,CBS,(TUD),3025,,f
+Chokepoints 3,CBS,(TUD),277,627,t
+Chokepoints 3,M*,Python inflated,8375,640,t
+Chokepoints 3,M*,Python inflated,109,592,t
+Chokepoints 3,M*,Python inflated,40185,636,t
+Chokepoints 3,M*,Python inflated,2778,583,t
+Chokepoints 3,M*,Python inflated,781,554,t
+Chokepoints 3,M*,Python inflated,109,572,t
+Chokepoints 3,M*,Python inflated,344,595,t
+Chokepoints 3,M*,Python inflated,641,640,t
+Chokepoints 3,M*,Python inflated,266,599,t
+Chokepoints 3,M*,Python inflated,1328,722,t
+Chokepoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",260,808,t
+Chokepoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",247,1142,t
+Chokepoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",285,909,t
+Chokepoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",244,759,t
+Chokepoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",336,1141,t
+Chokepoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",467,1116,t
+Chokepoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",303,1109,t
+Chokepoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",254,906,t
+Chokepoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",407,991,t
+Chokepoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",592,1036,t
+Chokepoints 4,A*+OD+ID,correct TSP cache (TU),123625,,f
+Chokepoints 4,A*+OD+ID,correct TSP cache (TU),126471,,f
+Chokepoints 4,A*+OD+ID,correct TSP cache (TU),122380,,f
+Chokepoints 4,A*+OD+ID,correct TSP cache (TU),120855,,f
+Chokepoints 4,A*+OD+ID,correct TSP cache (TU),622,613,t
+Chokepoints 4,A*+OD+ID,correct TSP cache (TU),121201,,f
+Chokepoints 4,A*+OD+ID,correct TSP cache (TU),120519,,f
+Chokepoints 4,A*+OD+ID,correct TSP cache (TU),122859,,f
+Chokepoints 4,A*+OD+ID,correct TSP cache (TU),122503,,f
+Chokepoints 4,A*+OD+ID,correct TSP cache (TU),124512,,f
+Chokepoints 4,BCP,heuristic-based waypoints 64 (TUD),604937,,f
+Chokepoints 4,BCP,heuristic-based waypoints 64 (TUD),26622,550,t
+Chokepoints 4,BCP,heuristic-based waypoints 64 (TUD),600011,680,t
+Chokepoints 4,BCP,heuristic-based waypoints 64 (TUD),171175,639,t
+Chokepoints 4,BCP,heuristic-based waypoints 64 (TUD),106604,594,t
+Chokepoints 4,BCP,heuristic-based waypoints 64 (TUD),210537,595,t
+Chokepoints 4,BCP,heuristic-based waypoints 64 (TUD),326585,693,t
+Chokepoints 4,BCP,heuristic-based waypoints 64 (TUD),134452,641,t
+Chokepoints 4,BCP,heuristic-based waypoints 64 (TUD),142756,631,t
+Chokepoints 4,BCP,heuristic-based waypoints 64 (TUD),243173,716,t
+Chokepoints 4,CBS,(TUD),3025,,f
+Chokepoints 4,CBS,(TUD),596,546,t
+Chokepoints 4,CBS,(TUD),3029,,f
+Chokepoints 4,CBS,(TUD),3026,,f
+Chokepoints 4,CBS,(TUD),3031,,f
+Chokepoints 4,CBS,(TUD),3034,,f
+Chokepoints 4,CBS,(TUD),3024,,f
+Chokepoints 4,CBS,(TUD),3030,,f
+Chokepoints 4,CBS,(TUD),3031,,f
+Chokepoints 4,CBS,(TUD),3025,,f
+Chokepoints 4,M*,Python inflated,60591,,f
+Chokepoints 4,M*,Python inflated,637,680,t
+Chokepoints 4,M*,Python inflated,10154,682,t
+Chokepoints 4,M*,Python inflated,156,533,t
+Chokepoints 4,M*,Python inflated,109,580,t
+Chokepoints 4,M*,Python inflated,5641,595,t
+Chokepoints 4,M*,Python inflated,15686,592,t
+Chokepoints 4,M*,Python inflated,60875,,f
+Chokepoints 4,M*,Python inflated,78,527,t
+Chokepoints 4,M*,Python inflated,1453,540,t
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",498,1250,t
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",496,1657,t
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",252,879,t
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",239,1072,t
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",274,1165,t
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",265,1044,t
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",292,1012,t
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",323,1638,t
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",229,904,t
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",186,1064,t
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",414,962,t
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",169,1092,t
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",268,1039,t
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",380,1207,t
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",264,1163,t
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",161,798,t
+Chokepoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 5,A*+OD+ID,correct TSP cache (TU),122819,,f
+Chokepoints 5,A*+OD+ID,correct TSP cache (TU),120497,,f
+Chokepoints 5,A*+OD+ID,correct TSP cache (TU),122295,,f
+Chokepoints 5,A*+OD+ID,correct TSP cache (TU),123598,,f
+Chokepoints 5,A*+OD+ID,correct TSP cache (TU),122684,,f
+Chokepoints 5,A*+OD+ID,correct TSP cache (TU),122879,,f
+Chokepoints 5,A*+OD+ID,correct TSP cache (TU),123552,,f
+Chokepoints 5,A*+OD+ID,correct TSP cache (TU),122489,,f
+Chokepoints 5,A*+OD+ID,correct TSP cache (TU),122703,,f
+Chokepoints 5,A*+OD+ID,correct TSP cache (TU),123166,,f
+Chokepoints 5,BCP,heuristic-based waypoints 64 (TUD),600027,673,t
+Chokepoints 5,BCP,heuristic-based waypoints 64 (TUD),600120,698,t
+Chokepoints 5,BCP,heuristic-based waypoints 64 (TUD),609626,,f
+Chokepoints 5,BCP,heuristic-based waypoints 64 (TUD),600005,711,t
+Chokepoints 5,BCP,heuristic-based waypoints 64 (TUD),600038,644,t
+Chokepoints 5,BCP,heuristic-based waypoints 64 (TUD),84446,604,t
+Chokepoints 5,BCP,heuristic-based waypoints 64 (TUD),600007,654,t
+Chokepoints 5,BCP,heuristic-based waypoints 64 (TUD),600072,,f
+Chokepoints 5,BCP,heuristic-based waypoints 64 (TUD),600031,649,t
+Chokepoints 5,BCP,heuristic-based waypoints 64 (TUD),607170,669,t
+Chokepoints 5,CBS,(TUD),3020,,f
+Chokepoints 5,CBS,(TUD),3030,,f
+Chokepoints 5,CBS,(TUD),3032,,f
+Chokepoints 5,CBS,(TUD),3030,,f
+Chokepoints 5,CBS,(TUD),3026,,f
+Chokepoints 5,CBS,(TUD),3025,,f
+Chokepoints 5,CBS,(TUD),3025,,f
+Chokepoints 5,CBS,(TUD),3024,,f
+Chokepoints 5,CBS,(TUD),3026,,f
+Chokepoints 5,CBS,(TUD),3027,,f
+Chokepoints 5,M*,Cpp inflated heuristic,,,f
+Chokepoints 5,M*,Python inflated,60528,,f
+Chokepoints 5,M*,Python inflated,60578,,f
+Chokepoints 5,M*,Python inflated,40703,515,t
+Chokepoints 5,M*,Python inflated,60625,,f
+Chokepoints 5,M*,Python inflated,60674,,f
+Chokepoints 5,M*,Python inflated,60687,,f
+Chokepoints 5,M*,Python inflated,60840,,f
+Chokepoints 5,M*,Python inflated,60562,,f
+Chokepoints 5,M*,Python inflated,2344,558,t
+Chokepoints 5,M*,Python inflated,,,f
+Chokepoints 5,M*,Python inflated,607393,,f
+Chokepoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",206,1122,t
+Chokepoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",223,1329,t
+Chokepoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",137,749,t
+Chokepoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",295,1231,t
+Chokepoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",350,1730,t
+Chokepoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",322,1474,t
+Chokepoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",243,958,t
+Chokepoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",215,1071,t
+Chokepoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",307,1657,t
+Chokepoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Chokepoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",383,2658,t
+Corridors 1,A*+OD+ID,correct TSP cache (TU),124109,,f
+Corridors 1,A*+OD+ID,correct TSP cache (TU),1389,714,t
+Corridors 1,A*+OD+ID,correct TSP cache (TU),22521,737,t
+Corridors 1,A*+OD+ID,correct TSP cache (TU),123906,,f
+Corridors 1,A*+OD+ID,correct TSP cache (TU),1550,685,t
+Corridors 1,A*+OD+ID,correct TSP cache (TU),318,749,t
+Corridors 1,A*+OD+ID,correct TSP cache (TU),3253,735,t
+Corridors 1,A*+OD+ID,correct TSP cache (TU),37041,735,t
+Corridors 1,A*+OD+ID,correct TSP cache (TU),123655,,f
+Corridors 1,A*+OD+ID,correct TSP cache (TU),122177,,f
+Corridors 1,BCP,heuristic-based waypoints 64 (TUD),600050,772,t
+Corridors 1,BCP,heuristic-based waypoints 64 (TUD),3032,653,t
+Corridors 1,BCP,heuristic-based waypoints 64 (TUD),600009,719,t
+Corridors 1,BCP,heuristic-based waypoints 64 (TUD),930,789,t
+Corridors 1,BCP,heuristic-based waypoints 64 (TUD),14772,820,t
+Corridors 1,BCP,heuristic-based waypoints 64 (TUD),300,692,t
+Corridors 1,BCP,heuristic-based waypoints 64 (TUD),93,646,t
+Corridors 1,BCP,heuristic-based waypoints 64 (TUD),3249,644,t
+Corridors 1,BCP,heuristic-based waypoints 64 (TUD),119,753,t
+Corridors 1,BCP,heuristic-based waypoints 64 (TUD),43383,775,t
+Corridors 1,CBS,(TUD),225,715,t
+Corridors 1,CBS,(TUD),562,679,t
+Corridors 1,CBS,(TUD),951,708,t
+Corridors 1,CBS,(TUD),1295,749,t
+Corridors 1,CBS,(TUD),439,663,t
+Corridors 1,CBS,(TUD),306,648,t
+Corridors 1,CBS,(TUD),248,654,t
+Corridors 1,CBS,(TUD),200,582,t
+Corridors 1,CBS,(TUD),3026,,f
+Corridors 1,CBS,(TUD),476,682,t
+Corridors 1,M*,Python inflated,125,657,t
+Corridors 1,M*,Python inflated,297,782,t
+Corridors 1,M*,Python inflated,125,700,t
+Corridors 1,M*,Python inflated,406,733,t
+Corridors 1,M*,Python inflated,78,669,t
+Corridors 1,M*,Python inflated,3281,743,t
+Corridors 1,M*,Python inflated,60662,,f
+Corridors 1,M*,Python inflated,39484,776,t
+Corridors 1,M*,Python inflated,94,643,t
+Corridors 1,M*,Python inflated,375,686,t
+Corridors 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",138,1234,t
+Corridors 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",98,801,t
+Corridors 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",121,916,t
+Corridors 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",194,1032,t
+Corridors 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",161,1034,t
+Corridors 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",133,979,t
+Corridors 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",192,1137,t
+Corridors 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Corridors 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",412,1100,t
+Corridors 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",200,1112,t
+Corridors 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",146,1017,t
+Corridors 2,A*+OD+ID,correct TSP cache (TU),124394,,f
+Corridors 2,A*+OD+ID,correct TSP cache (TU),123395,,f
+Corridors 2,A*+OD+ID,correct TSP cache (TU),673,778,t
+Corridors 2,A*+OD+ID,correct TSP cache (TU),122726,,f
+Corridors 2,A*+OD+ID,correct TSP cache (TU),123440,,f
+Corridors 2,A*+OD+ID,correct TSP cache (TU),120863,,f
+Corridors 2,A*+OD+ID,correct TSP cache (TU),466,747,t
+Corridors 2,A*+OD+ID,correct TSP cache (TU),122862,,f
+Corridors 2,A*+OD+ID,correct TSP cache (TU),121667,,f
+Corridors 2,A*+OD+ID,correct TSP cache (TU),123505,,f
+Corridors 2,BCP,heuristic-based waypoints 64 (TUD),35702,745,t
+Corridors 2,BCP,heuristic-based waypoints 64 (TUD),600019,646,t
+Corridors 2,BCP,heuristic-based waypoints 64 (TUD),49673,822,t
+Corridors 2,BCP,heuristic-based waypoints 64 (TUD),9185,705,t
+Corridors 2,BCP,heuristic-based waypoints 64 (TUD),1858,748,t
+Corridors 2,BCP,heuristic-based waypoints 64 (TUD),608906,,f
+Corridors 2,BCP,heuristic-based waypoints 64 (TUD),600027,690,t
+Corridors 2,BCP,heuristic-based waypoints 64 (TUD),2926,632,t
+Corridors 2,BCP,heuristic-based waypoints 64 (TUD),1966,662,t
+Corridors 2,BCP,heuristic-based waypoints 64 (TUD),17432,762,t
+Corridors 2,CBS,(TUD),975,770,t
+Corridors 2,CBS,(TUD),3032,,f
+Corridors 2,CBS,(TUD),1400,725,t
+Corridors 2,CBS,(TUD),654,761,t
+Corridors 2,CBS,(TUD),3028,,f
+Corridors 2,CBS,(TUD),948,672,t
+Corridors 2,CBS,(TUD),2442,810,t
+Corridors 2,CBS,(TUD),3031,,f
+Corridors 2,CBS,(TUD),1964,724,t
+Corridors 2,CBS,(TUD),3021,,f
+Corridors 2,M*,Python inflated,78,699,t
+Corridors 2,M*,Cpp tsp dynamic,,,f
+Corridors 2,M*,Python inflated,277,635,t
+Corridors 2,M*,Python inflated,234,653,t
+Corridors 2,M*,Python inflated,28531,,f
+Corridors 2,M*,Python inflated,78,747,t
+Corridors 2,M*,Python inflated,1187,746,t
+Corridors 2,M*,Python inflated,60500,,f
+Corridors 2,M*,Python inflated,62,644,t
+Corridors 2,M*,Python inflated,109,749,t
+Corridors 2,M*,Python inflated,1719,709,t
+Corridors 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",265,1351,t
+Corridors 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",147,1047,t
+Corridors 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",525,1249,t
+Corridors 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",175,979,t
+Corridors 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",126,1017,t
+Corridors 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",198,868,t
+Corridors 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",345,1184,t
+Corridors 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",155,1071,t
+Corridors 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",117,893,t
+Corridors 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",177,984,t
+Corridors 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",382,1048,t
+Corridors 3,A*+OD+ID,correct TSP cache (TU),531,800,t
+Corridors 3,A*+OD+ID,correct TSP cache (TU),40007,808,t
+Corridors 3,A*+OD+ID,correct TSP cache (TU),123498,,f
+Corridors 3,A*+OD+ID,correct TSP cache (TU),486,723,t
+Corridors 3,A*+OD+ID,correct TSP cache (TU),567,769,t
+Corridors 3,A*+OD+ID,correct TSP cache (TU),30301,666,t
+Corridors 3,A*+OD+ID,correct TSP cache (TU),123727,,f
+Corridors 3,A*+OD+ID,correct TSP cache (TU),2873,663,t
+Corridors 3,A*+OD+ID,correct TSP cache (TU),1986,781,t
+Corridors 3,A*+OD+ID,correct TSP cache (TU),122703,,f
+Corridors 3,BCP,heuristic-based waypoints 64 (TUD),197901,758,t
+Corridors 3,BCP,heuristic-based waypoints 64 (TUD),14046,776,t
+Corridors 3,BCP,heuristic-based waypoints 64 (TUD),8539,770,t
+Corridors 3,BCP,heuristic-based waypoints 64 (TUD),600006,794,t
+Corridors 3,BCP,heuristic-based waypoints 64 (TUD),262101,786,t
+Corridors 3,BCP,heuristic-based waypoints 64 (TUD),600015,692,t
+Corridors 3,BCP,heuristic-based waypoints 64 (TUD),671,786,t
+Corridors 3,BCP,heuristic-based waypoints 64 (TUD),303,786,t
+Corridors 3,BCP,heuristic-based waypoints 64 (TUD),55331,907,t
+Corridors 3,BCP,heuristic-based waypoints 64 (TUD),4691,694,t
+Corridors 3,CBS,(TUD),172,813,t
+Corridors 3,CBS,(TUD),3032,,f
+Corridors 3,CBS,(TUD),3024,,f
+Corridors 3,CBS,(TUD),3034,,f
+Corridors 3,CBS,(TUD),3026,,f
+Corridors 3,CBS,(TUD),3022,,f
+Corridors 3,CBS,(TUD),447,777,t
+Corridors 3,CBS,(TUD),3025,,f
+Corridors 3,CBS,(TUD),217,805,t
+Corridors 3,CBS,(TUD),266,812,t
+Corridors 3,M*,Python inflated,109,831,t
+Corridors 3,M*,Python inflated,328,791,t
+Corridors 3,M*,Python inflated,109,801,t
+Corridors 3,M*,Python inflated,8790,,f
+Corridors 3,M*,Python inflated,243,714,t
+Corridors 3,M*,Python inflated,359,914,t
+Corridors 3,M*,Python inflated,156,822,t
+Corridors 3,M*,Python inflated,94,700,t
+Corridors 3,M*,Python inflated,3203,771,t
+Corridors 3,M*,Python inflated,609,903,t
+Corridors 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",131,1288,t
+Corridors 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",139,1111,t
+Corridors 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",98,871,t
+Corridors 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",138,1199,t
+Corridors 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",134,1307,t
+Corridors 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",91,1022,t
+Corridors 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",172,1390,t
+Corridors 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",111,994,t
+Corridors 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",173,1475,t
+Corridors 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",136,1172,t
+Corridors 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",98,1008,t
+Corridors 4,A*+OD+ID,correct TSP cache (TU),123429,,f
+Corridors 4,A*+OD+ID,correct TSP cache (TU),120056,,f
+Corridors 4,A*+OD+ID,correct TSP cache (TU),1040,667,t
+Corridors 4,A*+OD+ID,correct TSP cache (TU),124994,,f
+Corridors 4,A*+OD+ID,correct TSP cache (TU),122297,,f
+Corridors 4,A*+OD+ID,correct TSP cache (TU),2377,822,t
+Corridors 4,A*+OD+ID,correct TSP cache (TU),267,800,t
+Corridors 4,A*+OD+ID,correct TSP cache (TU),122509,,f
+Corridors 4,A*+OD+ID,correct TSP cache (TU),202,775,t
+Corridors 4,A*+OD+ID,correct TSP cache (TU),5577,739,t
+Corridors 4,BCP,heuristic-based waypoints 64 (TUD),214,820,t
+Corridors 4,BCP,heuristic-based waypoints 64 (TUD),4503,860,t
+Corridors 4,BCP,heuristic-based waypoints 64 (TUD),113581,695,t
+Corridors 4,BCP,heuristic-based waypoints 64 (TUD),310478,762,t
+Corridors 4,BCP,heuristic-based waypoints 64 (TUD),600025,839,t
+Corridors 4,BCP,heuristic-based waypoints 64 (TUD),216165,874,t
+Corridors 4,BCP,heuristic-based waypoints 64 (TUD),12823,1004,t
+Corridors 4,BCP,heuristic-based waypoints 64 (TUD),16570,684,t
+Corridors 4,BCP,heuristic-based waypoints 64 (TUD),24044,794,t
+Corridors 4,BCP,heuristic-based waypoints 64 (TUD),434,723,t
+Corridors 4,CBS,(TUD),3020,,f
+Corridors 4,CBS,(TUD),3034,,f
+Corridors 4,CBS,(TUD),3026,,f
+Corridors 4,CBS,(TUD),3031,,f
+Corridors 4,CBS,(TUD),3035,,f
+Corridors 4,CBS,(TUD),510,808,t
+Corridors 4,CBS,(TUD),,,f
+Corridors 4,CBS,(TUD),881,846,t
+Corridors 4,CBS,(TUD),3024,,f
+Corridors 4,CBS,(TUD),3025,,f
+Corridors 4,CBS,(TUD),3031,,f
+Corridors 4,CBS,(TUD),,,f
+Corridors 4,M*,Python inflated,1391,708,t
+Corridors 4,M*,Python inflated,78,934,t
+Corridors 4,M*,Python inflated,47,866,t
+Corridors 4,M*,Python inflated,62,794,t
+Corridors 4,M*,Python inflated,109,704,t
+Corridors 4,M*,Python inflated,60953,,f
+Corridors 4,M*,Python inflated,62,848,t
+Corridors 4,M*,Python inflated,63,761,t
+Corridors 4,M*,Python inflated,227,801,t
+Corridors 4,M*,Python inflated,218,863,t
+Corridors 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",97,1147,t
+Corridors 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",93,1279,t
+Corridors 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",123,1129,t
+Corridors 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",98,1151,t
+Corridors 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",120,1183,t
+Corridors 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",105,1183,t
+Corridors 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",105,1186,t
+Corridors 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",195,1353,t
+Corridors 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",134,1278,t
+Corridors 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",96,1018,t
+Corridors 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",217,1429,t
+Corridors 5,A*+OD+ID,correct TSP cache (TU),2140,835,t
+Corridors 5,A*+OD+ID,correct TSP cache (TU),123736,,f
+Corridors 5,A*+OD+ID,correct TSP cache (TU),69072,997,t
+Corridors 5,A*+OD+ID,correct TSP cache (TU),10338,935,t
+Corridors 5,A*+OD+ID,correct TSP cache (TU),123042,,f
+Corridors 5,A*+OD+ID,correct TSP cache (TU),110992,763,t
+Corridors 5,A*+OD+ID,correct TSP cache (TU),125036,,f
+Corridors 5,A*+OD+ID,correct TSP cache (TU),122490,,f
+Corridors 5,A*+OD+ID,correct TSP cache (TU),122421,,f
+Corridors 5,A*+OD+ID,correct TSP cache (TU),122811,,f
+Corridors 5,BCP,heuristic-based waypoints 64 (TUD),4390,828,t
+Corridors 5,BCP,heuristic-based waypoints 64 (TUD),619,816,t
+Corridors 5,BCP,heuristic-based waypoints 64 (TUD),1518,867,t
+Corridors 5,BCP,heuristic-based waypoints 64 (TUD),92155,926,t
+Corridors 5,BCP,heuristic-based waypoints 64 (TUD),702,818,t
+Corridors 5,BCP,heuristic-based waypoints 64 (TUD),24757,811,t
+Corridors 5,BCP,heuristic-based waypoints 64 (TUD),154366,841,t
+Corridors 5,BCP,heuristic-based waypoints 64 (TUD),600007,841,t
+Corridors 5,BCP,heuristic-based waypoints 64 (TUD),14005,979,t
+Corridors 5,BCP,heuristic-based waypoints 64 (TUD),212,866,t
+Corridors 5,CBS,(TUD),3022,,f
+Corridors 5,CBS,(TUD),3027,,f
+Corridors 5,CBS,(TUD),613,894,t
+Corridors 5,CBS,(TUD),3021,,f
+Corridors 5,CBS,(TUD),398,870,t
+Corridors 5,CBS,(TUD),3032,,f
+Corridors 5,CBS,(TUD),3038,,f
+Corridors 5,CBS,(TUD),3025,,f
+Corridors 5,CBS,(TUD),3028,,f
+Corridors 5,CBS,(TUD),3021,,f
+Corridors 5,M*,Python inflated,11125,884,t
+Corridors 5,M*,Python inflated,62,858,t
+Corridors 5,M*,Python inflated,781,954,t
+Corridors 5,M*,Python inflated,3060,791,t
+Corridors 5,M*,Python inflated,286,898,t
+Corridors 5,M*,Python inflated,47,897,t
+Corridors 5,M*,Python inflated,109,784,t
+Corridors 5,M*,Python inflated,47,916,t
+Corridors 5,M*,Python inflated,812,894,t
+Corridors 5,M*,Python inflated,687,812,t
+Corridors 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",130,1498,t
+Corridors 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",85,1021,t
+Corridors 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",105,1243,t
+Corridors 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",367,1673,t
+Corridors 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",167,1491,t
+Corridors 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",145,1437,t
+Corridors 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Corridors 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",152,1557,t
+Corridors 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",77,1473,t
+Corridors 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",76,1391,t
+Corridors 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",72,1567,t
+Corridors 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",74,1476,t
+Corridors 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Corridors 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",,,f
+Corridors 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",95,1433,t
+Corridors 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",269,1394,t
+Overlapping Waypoints 1,A*+OD+ID,correct TSP cache (TU),209,276,t
+Overlapping Waypoints 1,A*+OD+ID,correct TSP cache (TU),176,287,t
+Overlapping Waypoints 1,A*+OD+ID,correct TSP cache (TU),26153,245,t
+Overlapping Waypoints 1,A*+OD+ID,correct TSP cache (TU),531,221,t
+Overlapping Waypoints 1,A*+OD+ID,correct TSP cache (TU),178,254,t
+Overlapping Waypoints 1,A*+OD+ID,correct TSP cache (TU),343,314,t
+Overlapping Waypoints 1,A*+OD+ID,correct TSP cache (TU),1380,240,t
+Overlapping Waypoints 1,A*+OD+ID,correct TSP cache (TU),204,402,t
+Overlapping Waypoints 1,A*+OD+ID,correct TSP cache (TU),734,276,t
+Overlapping Waypoints 1,A*+OD+ID,correct TSP cache (TU),390,265,t
+Overlapping Waypoints 1,BCP,heuristic-based waypoints 64 (TUD),14,349,t
+Overlapping Waypoints 1,BCP,heuristic-based waypoints 64 (TUD),36,293,t
+Overlapping Waypoints 1,BCP,heuristic-based waypoints 64 (TUD),22,203,t
+Overlapping Waypoints 1,BCP,heuristic-based waypoints 64 (TUD),13,232,t
+Overlapping Waypoints 1,BCP,heuristic-based waypoints 64 (TUD),7,293,t
+Overlapping Waypoints 1,BCP,heuristic-based waypoints 64 (TUD),8,305,t
+Overlapping Waypoints 1,BCP,heuristic-based waypoints 64 (TUD),10,283,t
+Overlapping Waypoints 1,BCP,heuristic-based waypoints 64 (TUD),11,251,t
+Overlapping Waypoints 1,BCP,heuristic-based waypoints 64 (TUD),9,261,t
+Overlapping Waypoints 1,BCP,heuristic-based waypoints 64 (TUD),15,256,t
+Overlapping Waypoints 1,CBS,(TUD),192,281,t
+Overlapping Waypoints 1,CBS,(TUD),83,290,t
+Overlapping Waypoints 1,CBS,(TUD),62,225,t
+Overlapping Waypoints 1,CBS,(TUD),72,314,t
+Overlapping Waypoints 1,CBS,(TUD),3031,,f
+Overlapping Waypoints 1,CBS,(TUD),187,339,t
+Overlapping Waypoints 1,CBS,(TUD),306,282,t
+Overlapping Waypoints 1,CBS,(TUD),138,306,t
+Overlapping Waypoints 1,CBS,(TUD),70,252,t
+Overlapping Waypoints 1,M*,Python inflated,47,233,t
+Overlapping Waypoints 1,M*,Python inflated,78,363,t
+Overlapping Waypoints 1,M*,Python inflated,109,250,t
+Overlapping Waypoints 1,M*,Python inflated,203,297,t
+Overlapping Waypoints 1,M*,Python inflated,78,427,t
+Overlapping Waypoints 1,M*,Python inflated,578,324,t
+Overlapping Waypoints 1,M*,Python inflated,31,284,t
+Overlapping Waypoints 1,M*,Python inflated,62,290,t
+Overlapping Waypoints 1,M*,Python inflated,47,241,t
+Overlapping Waypoints 1,M*,Python inflated,281,313,t
+Overlapping Waypoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",65,341,t
+Overlapping Waypoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",73,343,t
+Overlapping Waypoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",45,404,t
+Overlapping Waypoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",112,390,t
+Overlapping Waypoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",54,345,t
+Overlapping Waypoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",45,291,t
+Overlapping Waypoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",37,328,t
+Overlapping Waypoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",37,289,t
+Overlapping Waypoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",45,229,t
+Overlapping Waypoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",36,299,t
+Overlapping Waypoints 1,Unordered MLA*,"log_time, resting, dist+nearest_dist",46,406,t
+Overlapping Waypoints 2,A*+OD+ID,correct TSP cache (TU),262,301,t
+Overlapping Waypoints 2,A*+OD+ID,correct TSP cache (TU),461,301,t
+Overlapping Waypoints 2,A*+OD+ID,correct TSP cache (TU),12071,450,t
+Overlapping Waypoints 2,A*+OD+ID,correct TSP cache (TU),976,341,t
+Overlapping Waypoints 2,A*+OD+ID,correct TSP cache (TU),23283,316,t
+Overlapping Waypoints 2,A*+OD+ID,correct TSP cache (TU),76966,498,t
+Overlapping Waypoints 2,A*+OD+ID,correct TSP cache (TU),592,368,t
+Overlapping Waypoints 2,A*+OD+ID,correct TSP cache (TU),7020,343,t
+Overlapping Waypoints 2,A*+OD+ID,correct TSP cache (TU),9250,410,t
+Overlapping Waypoints 2,A*+OD+ID,correct TSP cache (TU),596,410,t
+Overlapping Waypoints 2,BCP,heuristic-based waypoints 64 (TUD),92,413,t
+Overlapping Waypoints 2,BCP,heuristic-based waypoints 64 (TUD),12,365,t
+Overlapping Waypoints 2,BCP,heuristic-based waypoints 64 (TUD),30,379,t
+Overlapping Waypoints 2,BCP,heuristic-based waypoints 64 (TUD),620,423,t
+Overlapping Waypoints 2,BCP,heuristic-based waypoints 64 (TUD),41,290,t
+Overlapping Waypoints 2,BCP,heuristic-based waypoints 64 (TUD),36,393,t
+Overlapping Waypoints 2,BCP,heuristic-based waypoints 64 (TUD),24,372,t
+Overlapping Waypoints 2,BCP,heuristic-based waypoints 64 (TUD),21,358,t
+Overlapping Waypoints 2,BCP,heuristic-based waypoints 64 (TUD),93,324,t
+Overlapping Waypoints 2,BCP,heuristic-based waypoints 64 (TUD),54,370,t
+Overlapping Waypoints 2,CBS,(TUD),785,468,t
+Overlapping Waypoints 2,CBS,(TUD),147,465,t
+Overlapping Waypoints 2,CBS,(TUD),168,405,t
+Overlapping Waypoints 2,CBS,(TUD),2415,476,t
+Overlapping Waypoints 2,CBS,(TUD),758,370,t
+Overlapping Waypoints 2,CBS,(TUD),452,346,t
+Overlapping Waypoints 2,CBS,(TUD),197,384,t
+Overlapping Waypoints 2,CBS,(TUD),318,321,t
+Overlapping Waypoints 2,CBS,(TUD),278,440,t
+Overlapping Waypoints 2,M*,Python inflated,62,394,t
+Overlapping Waypoints 2,M*,Python inflated,78,395,t
+Overlapping Waypoints 2,M*,Python inflated,78,380,t
+Overlapping Waypoints 2,M*,Python inflated,78,383,t
+Overlapping Waypoints 2,M*,Python inflated,78,431,t
+Overlapping Waypoints 2,M*,Python inflated,187,399,t
+Overlapping Waypoints 2,M*,Python inflated,266,407,t
+Overlapping Waypoints 2,M*,Python inflated,93,462,t
+Overlapping Waypoints 2,M*,Python inflated,125,367,t
+Overlapping Waypoints 2,M*,Python inflated,109,503,t
+Overlapping Waypoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",38,395,t
+Overlapping Waypoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",76,452,t
+Overlapping Waypoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",93,348,t
+Overlapping Waypoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",30,381,t
+Overlapping Waypoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",145,600,t
+Overlapping Waypoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",70,486,t
+Overlapping Waypoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",81,548,t
+Overlapping Waypoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",71,520,t
+Overlapping Waypoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",36,376,t
+Overlapping Waypoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",55,486,t
+Overlapping Waypoints 2,Unordered MLA*,"log_time, resting, dist+nearest_dist",59,618,t
+Overlapping Waypoints 3,A*+OD+ID,correct TSP cache (TU),8978,384,t
+Overlapping Waypoints 3,A*+OD+ID,correct TSP cache (TU),33719,434,t
+Overlapping Waypoints 3,A*+OD+ID,correct TSP cache (TU),8328,478,t
+Overlapping Waypoints 3,A*+OD+ID,correct TSP cache (TU),9057,301,t
+Overlapping Waypoints 3,A*+OD+ID,correct TSP cache (TU),13081,547,t
+Overlapping Waypoints 3,A*+OD+ID,correct TSP cache (TU),32588,479,t
+Overlapping Waypoints 3,A*+OD+ID,correct TSP cache (TU),123568,,f
+Overlapping Waypoints 3,A*+OD+ID,correct TSP cache (TU),1450,465,t
+Overlapping Waypoints 3,A*+OD+ID,correct TSP cache (TU),123521,,f
+Overlapping Waypoints 3,A*+OD+ID,correct TSP cache (TU),57019,417,t
+Overlapping Waypoints 3,BCP,heuristic-based waypoints 64 (TUD),14971,476,t
+Overlapping Waypoints 3,BCP,heuristic-based waypoints 64 (TUD),307,518,t
+Overlapping Waypoints 3,BCP,heuristic-based waypoints 64 (TUD),321,376,t
+Overlapping Waypoints 3,BCP,heuristic-based waypoints 64 (TUD),1372,406,t
+Overlapping Waypoints 3,BCP,heuristic-based waypoints 64 (TUD),1935,476,t
+Overlapping Waypoints 3,BCP,heuristic-based waypoints 64 (TUD),937,429,t
+Overlapping Waypoints 3,BCP,heuristic-based waypoints 64 (TUD),7690,516,t
+Overlapping Waypoints 3,BCP,heuristic-based waypoints 64 (TUD),740,428,t
+Overlapping Waypoints 3,BCP,heuristic-based waypoints 64 (TUD),1526,566,t
+Overlapping Waypoints 3,BCP,heuristic-based waypoints 64 (TUD),1511,518,t
+Overlapping Waypoints 3,CBS,(TUD),176,409,t
+Overlapping Waypoints 3,CBS,(TUD),267,398,t
+Overlapping Waypoints 3,CBS,(TUD),172,446,t
+Overlapping Waypoints 3,CBS,(TUD),404,461,t
+Overlapping Waypoints 3,CBS,(TUD),3035,,f
+Overlapping Waypoints 3,CBS,(TUD),306,466,t
+Overlapping Waypoints 3,CBS,(TUD),1066,507,t
+Overlapping Waypoints 3,CBS,(TUD),1057,461,t
+Overlapping Waypoints 3,CBS,(TUD),3019,,f
+Overlapping Waypoints 3,M*,Python inflated,781,524,t
+Overlapping Waypoints 3,M*,Python inflated,125,479,t
+Overlapping Waypoints 3,M*,Python inflated,313,574,t
+Overlapping Waypoints 3,M*,Python inflated,78,431,t
+Overlapping Waypoints 3,M*,Python inflated,109,512,t
+Overlapping Waypoints 3,M*,Python inflated,94,456,t
+Overlapping Waypoints 3,M*,Python inflated,78,455,t
+Overlapping Waypoints 3,M*,Python inflated,141,536,t
+Overlapping Waypoints 3,M*,Python inflated,94,571,t
+Overlapping Waypoints 3,M*,Python inflated,94,398,t
+Overlapping Waypoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",80,715,t
+Overlapping Waypoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",57,659,t
+Overlapping Waypoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",40,511,t
+Overlapping Waypoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",60,714,t
+Overlapping Waypoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",72,558,t
+Overlapping Waypoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",80,642,t
+Overlapping Waypoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",60,599,t
+Overlapping Waypoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",46,524,t
+Overlapping Waypoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",46,408,t
+Overlapping Waypoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",72,667,t
+Overlapping Waypoints 3,Unordered MLA*,"log_time, resting, dist+nearest_dist",50,508,t
+Overlapping Waypoints 4,A*+OD+ID,correct TSP cache (TU),576,599,t
+Overlapping Waypoints 4,A*+OD+ID,correct TSP cache (TU),602,479,t
+Overlapping Waypoints 4,A*+OD+ID,correct TSP cache (TU),17473,566,t
+Overlapping Waypoints 4,A*+OD+ID,correct TSP cache (TU),659,423,t
+Overlapping Waypoints 4,A*+OD+ID,correct TSP cache (TU),5637,544,t
+Overlapping Waypoints 4,A*+OD+ID,correct TSP cache (TU),2192,442,t
+Overlapping Waypoints 4,A*+OD+ID,correct TSP cache (TU),29087,500,t
+Overlapping Waypoints 4,A*+OD+ID,correct TSP cache (TU),456,475,t
+Overlapping Waypoints 4,A*+OD+ID,correct TSP cache (TU),503,419,t
+Overlapping Waypoints 4,A*+OD+ID,correct TSP cache (TU),793,480,t
+Overlapping Waypoints 4,BCP,heuristic-based waypoints 64 (TUD),6806,507,t
+Overlapping Waypoints 4,BCP,heuristic-based waypoints 64 (TUD),17183,554,t
+Overlapping Waypoints 4,BCP,heuristic-based waypoints 64 (TUD),8272,396,t
+Overlapping Waypoints 4,BCP,heuristic-based waypoints 64 (TUD),7739,483,t
+Overlapping Waypoints 4,BCP,heuristic-based waypoints 64 (TUD),1118,462,t
+Overlapping Waypoints 4,BCP,heuristic-based waypoints 64 (TUD),1591,484,t
+Overlapping Waypoints 4,BCP,heuristic-based waypoints 64 (TUD),2909,602,t
+Overlapping Waypoints 4,BCP,heuristic-based waypoints 64 (TUD),2423,545,t
+Overlapping Waypoints 4,BCP,heuristic-based waypoints 64 (TUD),3387,549,t
+Overlapping Waypoints 4,BCP,heuristic-based waypoints 64 (TUD),732,512,t
+Overlapping Waypoints 4,CBS,(TUD),406,437,t
+Overlapping Waypoints 4,CBS,(TUD),704,544,t
+Overlapping Waypoints 4,CBS,(TUD),526,579,t
+Overlapping Waypoints 4,CBS,(TUD),250,521,t
+Overlapping Waypoints 4,CBS,(TUD),1100,542,t
+Overlapping Waypoints 4,CBS,(TUD),277,604,t
+Overlapping Waypoints 4,CBS,(TUD),955,608,t
+Overlapping Waypoints 4,CBS,(TUD),270,529,t
+Overlapping Waypoints 4,CBS,(TUD),1144,506,t
+Overlapping Waypoints 4,M*,Python inflated,156,514,t
+Overlapping Waypoints 4,M*,Python inflated,312,523,t
+Overlapping Waypoints 4,M*,Python inflated,156,532,t
+Overlapping Waypoints 4,M*,Python inflated,171,564,t
+Overlapping Waypoints 4,M*,Python inflated,141,549,t
+Overlapping Waypoints 4,M*,Python inflated,156,539,t
+Overlapping Waypoints 4,M*,Python inflated,453,530,t
+Overlapping Waypoints 4,M*,Python inflated,156,402,t
+Overlapping Waypoints 4,M*,Python inflated,562,607,t
+Overlapping Waypoints 4,M*,Python inflated,156,556,t
+Overlapping Waypoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",112,554,t
+Overlapping Waypoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",70,776,t
+Overlapping Waypoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",85,812,t
+Overlapping Waypoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",77,778,t
+Overlapping Waypoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",60,683,t
+Overlapping Waypoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",89,875,t
+Overlapping Waypoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",100,889,t
+Overlapping Waypoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",112,712,t
+Overlapping Waypoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",120,672,t
+Overlapping Waypoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",114,677,t
+Overlapping Waypoints 4,Unordered MLA*,"log_time, resting, dist+nearest_dist",102,718,t
+Overlapping Waypoints 5,A*+OD+ID,correct TSP cache (TU),125386,,f
+Overlapping Waypoints 5,A*+OD+ID,correct TSP cache (TU),121378,,f
+Overlapping Waypoints 5,A*+OD+ID,correct TSP cache (TU),79601,456,t
+Overlapping Waypoints 5,A*+OD+ID,correct TSP cache (TU),899,504,t
+Overlapping Waypoints 5,A*+OD+ID,correct TSP cache (TU),5305,511,t
+Overlapping Waypoints 5,A*+OD+ID,correct TSP cache (TU),124432,,f
+Overlapping Waypoints 5,A*+OD+ID,correct TSP cache (TU),870,587,t
+Overlapping Waypoints 5,A*+OD+ID,correct TSP cache (TU),2535,590,t
+Overlapping Waypoints 5,A*+OD+ID,correct TSP cache (TU),123719,,f
+Overlapping Waypoints 5,A*+OD+ID,correct TSP cache (TU),121339,,f
+Overlapping Waypoints 5,BCP,heuristic-based waypoints 64 (TUD),13216,457,t
+Overlapping Waypoints 5,BCP,heuristic-based waypoints 64 (TUD),7146,454,t
+Overlapping Waypoints 5,BCP,heuristic-based waypoints 64 (TUD),19947,525,t
+Overlapping Waypoints 5,BCP,heuristic-based waypoints 64 (TUD),600916,585,t
+Overlapping Waypoints 5,BCP,heuristic-based waypoints 64 (TUD),340053,610,t
+Overlapping Waypoints 5,BCP,heuristic-based waypoints 64 (TUD),23479,521,t
+Overlapping Waypoints 5,BCP,heuristic-based waypoints 64 (TUD),101682,526,t
+Overlapping Waypoints 5,BCP,heuristic-based waypoints 64 (TUD),601075,502,t
+Overlapping Waypoints 5,BCP,heuristic-based waypoints 64 (TUD),42273,523,t
+Overlapping Waypoints 5,BCP,heuristic-based waypoints 64 (TUD),12643,559,t
+Overlapping Waypoints 5,CBS,(TUD),3036,,f
+Overlapping Waypoints 5,CBS,(TUD),913,684,t
+Overlapping Waypoints 5,CBS,(TUD),1015,493,t
+Overlapping Waypoints 5,CBS,(TUD),1118,400,t
+Overlapping Waypoints 5,CBS,(TUD),728,599,t
+Overlapping Waypoints 5,CBS,(TUD),2090,559,t
+Overlapping Waypoints 5,CBS,(TUD),3030,,f
+Overlapping Waypoints 5,CBS,(TUD),860,541,t
+Overlapping Waypoints 5,CBS,(TUD),1453,565,t
+Overlapping Waypoints 5,M*,Python inflated,375,450,t
+Overlapping Waypoints 5,M*,Python inflated,547,570,t
+Overlapping Waypoints 5,M*,Python inflated,391,658,t
+Overlapping Waypoints 5,M*,Python inflated,391,573,t
+Overlapping Waypoints 5,M*,Python inflated,375,602,t
+Overlapping Waypoints 5,M*,Python inflated,484,506,t
+Overlapping Waypoints 5,M*,Python inflated,375,451,t
+Overlapping Waypoints 5,M*,Python inflated,469,630,t
+Overlapping Waypoints 5,M*,Python inflated,828,622,t
+Overlapping Waypoints 5,M*,Python inflated,3969,549,t
+Overlapping Waypoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",88,815,t
+Overlapping Waypoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",83,922,t
+Overlapping Waypoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",68,661,t
+Overlapping Waypoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",106,903,t
+Overlapping Waypoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",103,790,t
+Overlapping Waypoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",107,825,t
+Overlapping Waypoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",87,890,t
+Overlapping Waypoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",108,902,t
+Overlapping Waypoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",120,1001,t
+Overlapping Waypoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",82,909,t
+Overlapping Waypoints 5,Unordered MLA*,"log_time, resting, dist+nearest_dist",123,895,t
