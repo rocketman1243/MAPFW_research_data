@@ -1,0 +1,1443 @@
+benchmark_id;benchmark;algorithm;version;solution_id;cost;time
+31;Corridors 1;A*+OD+ID;correct TSP cache (TU);60430;735;37041
+31;Corridors 1;A*+OD+ID;correct TSP cache (TU);60481;;123906
+31;Corridors 1;A*+OD+ID;correct TSP cache (TU);60486;714;1389
+31;Corridors 1;A*+OD+ID;correct TSP cache (TU);60518;;124109
+31;Corridors 1;A*+OD+ID;correct TSP cache (TU);60532;;123655
+31;Corridors 1;A*+OD+ID;correct TSP cache (TU);60564;737;22521
+31;Corridors 1;A*+OD+ID;correct TSP cache (TU);60579;685;1550
+31;Corridors 1;A*+OD+ID;correct TSP cache (TU);60610;749;318
+31;Corridors 1;A*+OD+ID;correct TSP cache (TU);60624;;122177
+31;Corridors 1;A*+OD+ID;correct TSP cache (TU);60429;735;3253
+31;Corridors 1;BCP;heuristic-based waypoints 64 (TUD);60674;653;3032
+31;Corridors 1;BCP;heuristic-based waypoints 64 (TUD);60453;789;930
+31;Corridors 1;BCP;heuristic-based waypoints 64 (TUD);60916;772;600050
+31;Corridors 1;BCP;heuristic-based waypoints 64 (TUD);60022;820;14772
+31;Corridors 1;BCP;heuristic-based waypoints 64 (TUD);49822;775;43383
+31;Corridors 1;BCP;heuristic-based waypoints 64 (TUD);52392;753;119
+31;Corridors 1;BCP;heuristic-based waypoints 64 (TUD);54806;644;3249
+31;Corridors 1;BCP;heuristic-based waypoints 64 (TUD);56732;646;93
+31;Corridors 1;BCP;heuristic-based waypoints 64 (TUD);60590;719;600009
+31;Corridors 1;BCP;heuristic-based waypoints 64 (TUD);58652;692;300
+31;Corridors 1;CBS;(TUD);48151;708;951
+31;Corridors 1;CBS;(TUD);47607;582;200
+31;Corridors 1;CBS;(TUD);47627;682;476
+31;Corridors 1;CBS;(TUD);47717;654;248
+31;Corridors 1;CBS;(TUD);47787;679;562
+31;Corridors 1;CBS;(TUD);47807;715;225
+31;Corridors 1;CBS;(TUD);47877;;3026
+31;Corridors 1;CBS;(TUD);47897;648;306
+31;Corridors 1;CBS;(TUD);47917;663;439
+31;Corridors 1;CBS;(TUD);48081;749;1295
+31;Corridors 1;CBS;(TUD);201269;825;4921
+31;Corridors 1;CBS;(TUD);47587;;1029
+31;Corridors 1;CBS;(TUD_voor_timons_vergelijking);201432;;20053
+31;Corridors 1;CBS;(TUD_voor_timons_vergelijking);201372;;20085
+31;Corridors 1;CBS;(TUD_voor_timons_vergelijking);201392;670;3016
+31;Corridors 1;CBS;(TUD_voor_timons_vergelijking);201272;590;199
+31;Corridors 1;CBS;(TUD_voor_timons_vergelijking);201292;661;122
+31;Corridors 1;CBS;(TUD_voor_timons_vergelijking);201312;;20051
+31;Corridors 1;CBS;(TUD_voor_timons_vergelijking);201332;684;788
+31;Corridors 1;CBS;(TUD_voor_timons_vergelijking);201352;824;11362
+31;Corridors 1;CBS;(TUD_voor_timons_vergelijking);201412;;20150
+31;Corridors 1;CBS;(TUD_voor_timons_vergelijking);201452;664;8128
+31;Corridors 1;M*;Python (TU);179299;;20259
+31;Corridors 1;M*;Python (TU);178769;;20352
+31;Corridors 1;M*;Python (TU);178889;;20317
+31;Corridors 1;M*;Python (TU);178959;699;631
+31;Corridors 1;M*;Python (TU);179129;;20234
+31;Corridors 1;M*;Python (TU);179199;;20264
+31;Corridors 1;M*;Python (TU);179219;;20252
+31;Corridors 1;M*;Python (TU);179239;;20254
+31;Corridors 1;M*;Python (TU);179259;;20347
+31;Corridors 1;M*;Python (TU);179279;;20323
+31;Corridors 1;M* Inflated;Python (TU);179509;686;71
+31;Corridors 1;M* Inflated;Python (TU);179469;664;119
+31;Corridors 1;M* Inflated;Python (TU);179369;662;198
+31;Corridors 1;M* Inflated;Python (TU);179389;714;53
+31;Corridors 1;M* Inflated;Python (TU);179409;728;118
+31;Corridors 1;M* Inflated;Python (TU);179429;806;222
+31;Corridors 1;M* Inflated;Python (TU);179449;745;2581
+31;Corridors 1;M* Inflated;Python (TU);179549;600;57
+31;Corridors 1;M* Inflated;Python (TU);179529;758;201
+31;Corridors 1;M* Inflated;Python (TU);179489;;20234
+31;Corridors 1;Unordered MLA* v2;linear, resting, dist (TU);201943;898;138
+31;Corridors 1;Unordered MLA* v2;linear, resting, dist (TU);201944;910;59
+31;Corridors 1;Unordered MLA* v2;linear, resting, dist (TU);201945;;
+31;Corridors 1;Unordered MLA* v2;linear, resting, dist (TU);201952;;
+31;Corridors 1;Unordered MLA* v2;linear, resting, dist (TU);201951;1126;129
+31;Corridors 1;Unordered MLA* v2;linear, resting, dist (TU);201950;897;59
+31;Corridors 1;Unordered MLA* v2;linear, resting, dist (TU);201949;949;74
+31;Corridors 1;Unordered MLA* v2;linear, resting, dist (TU);201948;843;45
+31;Corridors 1;Unordered MLA* v2;linear, resting, dist (TU);201947;759;54
+31;Corridors 1;Unordered MLA* v2;linear, resting, dist (TU);201946;;
+31;Corridors 1;Unordered MLA* v2;linear, resting, dist (TU);201930;1064;108
+31;Corridors 1;Unordered MLA* v2;linear, resting, dist (TU);201922;802;46
+31;Corridors 1;Unordered MLA* v2;linear, resting, dist (TU);201940;1031;64
+31;Corridors 1;Unordered MLA* v2;linear, resting, dist (TU);201941;;
+31;Corridors 1;Unordered MLA* v2;linear, resting, dist (TU);201942;855;66
+32;Corridors 2;A*+OD+ID;correct TSP cache (TU);60431;;121667
+32;Corridors 2;A*+OD+ID;correct TSP cache (TU);60432;;123395
+32;Corridors 2;A*+OD+ID;correct TSP cache (TU);60484;778;673
+32;Corridors 2;A*+OD+ID;correct TSP cache (TU);60487;;122726
+32;Corridors 2;A*+OD+ID;correct TSP cache (TU);60520;;123440
+32;Corridors 2;A*+OD+ID;correct TSP cache (TU);60535;;120863
+32;Corridors 2;A*+OD+ID;correct TSP cache (TU);60570;;124394
+32;Corridors 2;A*+OD+ID;correct TSP cache (TU);60580;747;466
+32;Corridors 2;A*+OD+ID;correct TSP cache (TU);60611;;122862
+32;Corridors 2;A*+OD+ID;correct TSP cache (TU);60626;;123505
+32;Corridors 2;BCP;heuristic-based waypoints 64 (TUD);60967;745;35702
+32;Corridors 2;BCP;heuristic-based waypoints 64 (TUD);60675;632;2926
+32;Corridors 2;BCP;heuristic-based waypoints 64 (TUD);60618;662;1966
+32;Corridors 2;BCP;heuristic-based waypoints 64 (TUD);60454;762;17432
+32;Corridors 2;BCP;heuristic-based waypoints 64 (TUD);49873;690;600027
+32;Corridors 2;BCP;heuristic-based waypoints 64 (TUD);52393;;608906
+32;Corridors 2;BCP;heuristic-based waypoints 64 (TUD);54813;748;1858
+32;Corridors 2;BCP;heuristic-based waypoints 64 (TUD);56733;705;9185
+32;Corridors 2;BCP;heuristic-based waypoints 64 (TUD);58653;822;49673
+32;Corridors 2;BCP;heuristic-based waypoints 64 (TUD);60023;646;600019
+32;Corridors 2;CBS;(TUD);47718;;3032
+32;Corridors 2;CBS;(TUD);48152;724;1964
+32;Corridors 2;CBS;(TUD);47878;810;2442
+32;Corridors 2;CBS;(TUD);47588;;1024
+32;Corridors 2;CBS;(TUD);47608;672;948
+32;Corridors 2;CBS;(TUD);47628;;3028
+32;Corridors 2;CBS;(TUD);48082;;3021
+32;Corridors 2;CBS;(TUD);47918;770;975
+32;Corridors 2;CBS;(TUD);47898;725;1400
+32;Corridors 2;CBS;(TUD);201270;617;493
+32;Corridors 2;CBS;(TUD);47808;;3031
+32;Corridors 2;CBS;(TUD);47788;761;654
+32;Corridors 2;CBS;(TUD_voor_timons_vergelijking);201433;765;4687
+32;Corridors 2;CBS;(TUD_voor_timons_vergelijking);201453;;20057
+32;Corridors 2;CBS;(TUD_voor_timons_vergelijking);201413;796;6320
+32;Corridors 2;CBS;(TUD_voor_timons_vergelijking);201393;;20047
+32;Corridors 2;CBS;(TUD_voor_timons_vergelijking);201373;622;113
+32;Corridors 2;CBS;(TUD_voor_timons_vergelijking);201353;;20035
+32;Corridors 2;CBS;(TUD_voor_timons_vergelijking);201333;690;416
+32;Corridors 2;CBS;(TUD_voor_timons_vergelijking);201313;;20037
+32;Corridors 2;CBS;(TUD_voor_timons_vergelijking);201293;;20097
+32;Corridors 2;CBS;(TUD_voor_timons_vergelijking);201273;708;931
+32;Corridors 2;M*;Python (TU);179240;;20259
+32;Corridors 2;M*;Python (TU);179200;;20329
+32;Corridors 2;M*;Python (TU);178820;;20234
+32;Corridors 2;M*;Python (TU);178890;;20238
+32;Corridors 2;M*;Python (TU);178960;;20269
+32;Corridors 2;M*;Python (TU);179130;;20255
+32;Corridors 2;M*;Python (TU);179300;723;64
+32;Corridors 2;M*;Python (TU);179280;;20261
+32;Corridors 2;M*;Python (TU);179260;;20258
+32;Corridors 2;M*;Python (TU);179220;;20205
+32;Corridors 2;M* Inflated;Python (TU);179370;;20358
+32;Corridors 2;M* Inflated;Python (TU);179550;699;91
+32;Corridors 2;M* Inflated;Python (TU);179530;807;1199
+32;Corridors 2;M* Inflated;Python (TU);179510;763;164
+32;Corridors 2;M* Inflated;Python (TU);179450;643;7410
+32;Corridors 2;M* Inflated;Python (TU);179490;696;53
+32;Corridors 2;M* Inflated;Python (TU);179430;856;252
+32;Corridors 2;M* Inflated;Python (TU);179470;;20262
+32;Corridors 2;M* Inflated;Python (TU);179410;709;254
+32;Corridors 2;M* Inflated;Python (TU);179390;691;89
+32;Corridors 2;Unordered MLA* v2;linear, resting, dist (TU);201923;1108;118
+32;Corridors 2;Unordered MLA* v2;linear, resting, dist (TU);201957;1028;90
+32;Corridors 2;Unordered MLA* v2;linear, resting, dist (TU);201956;1021;63
+32;Corridors 2;Unordered MLA* v2;linear, resting, dist (TU);201955;936;60
+32;Corridors 2;Unordered MLA* v2;linear, resting, dist (TU);201954;888;66
+32;Corridors 2;Unordered MLA* v2;linear, resting, dist (TU);201953;;
+32;Corridors 2;Unordered MLA* v2;linear, resting, dist (TU);201931;1009;54
+32;Corridors 2;Unordered MLA* v2;linear, resting, dist (TU);201958;1090;602
+32;Corridors 2;Unordered MLA* v2;linear, resting, dist (TU);201962;;
+32;Corridors 2;Unordered MLA* v2;linear, resting, dist (TU);201961;855;182
+32;Corridors 2;Unordered MLA* v2;linear, resting, dist (TU);201960;;
+32;Corridors 2;Unordered MLA* v2;linear, resting, dist (TU);201959;885;125
+34;Corridors 3;A*+OD+ID;correct TSP cache (TU);60536;781;1986
+34;Corridors 3;A*+OD+ID;correct TSP cache (TU);60528;800;531
+34;Corridors 3;A*+OD+ID;correct TSP cache (TU);60492;;122703
+34;Corridors 3;A*+OD+ID;correct TSP cache (TU);60485;808;40007
+34;Corridors 3;A*+OD+ID;correct TSP cache (TU);60435;;123498
+34;Corridors 3;A*+OD+ID;correct TSP cache (TU);60433;723;486
+34;Corridors 3;A*+OD+ID;correct TSP cache (TU);60628;769;567
+34;Corridors 3;A*+OD+ID;correct TSP cache (TU);60617;666;30301
+34;Corridors 3;A*+OD+ID;correct TSP cache (TU);60581;;123727
+34;Corridors 3;A*+OD+ID;correct TSP cache (TU);60574;663;2873
+34;Corridors 3;BCP;heuristic-based waypoints 64 (TUD);53194;786;303
+34;Corridors 3;BCP;heuristic-based waypoints 64 (TUD);50324;786;671
+34;Corridors 3;BCP;heuristic-based waypoints 64 (TUD);54814;907;55331
+34;Corridors 3;BCP;heuristic-based waypoints 64 (TUD);56760;694;4691
+34;Corridors 3;BCP;heuristic-based waypoints 64 (TUD);58704;776;14046
+34;Corridors 3;BCP;heuristic-based waypoints 64 (TUD);60124;692;600015
+34;Corridors 3;BCP;heuristic-based waypoints 64 (TUD);60455;786;262101
+34;Corridors 3;BCP;heuristic-based waypoints 64 (TUD);60619;794;600006
+34;Corridors 3;BCP;heuristic-based waypoints 64 (TUD);60676;770;8539
+34;Corridors 3;BCP;heuristic-based waypoints 64 (TUD);60968;758;197901
+34;Corridors 3;CBS;(TUD);47629;;3025
+34;Corridors 3;CBS;(TUD);47649;805;217
+34;Corridors 3;CBS;(TUD);48153;;3022
+34;Corridors 3;CBS;(TUD);48083;;3026
+34;Corridors 3;CBS;(TUD);47899;;3034
+34;Corridors 3;CBS;(TUD);47879;;3024
+34;Corridors 3;CBS;(TUD);47809;;3032
+34;Corridors 3;CBS;(TUD);47789;813;172
+34;Corridors 3;CBS;(TUD);47769;812;266
+34;Corridors 3;CBS;(TUD);47589;;1024
+34;Corridors 3;CBS;(TUD);47609;777;447
+34;Corridors 3;CBS;(TUD);201271;;
+34;Corridors 3;CBS;(TUD_voor_timons_vergelijking);201294;;20030
+34;Corridors 3;CBS;(TUD_voor_timons_vergelijking);201314;767;248
+34;Corridors 3;CBS;(TUD_voor_timons_vergelijking);201334;770;248
+34;Corridors 3;CBS;(TUD_voor_timons_vergelijking);201354;;20060
+34;Corridors 3;CBS;(TUD_voor_timons_vergelijking);201374;;20053
+34;Corridors 3;CBS;(TUD_voor_timons_vergelijking);201274;;20033
+34;Corridors 3;CBS;(TUD_voor_timons_vergelijking);201394;724;289
+34;Corridors 3;CBS;(TUD_voor_timons_vergelijking);201414;;20034
+34;Corridors 3;CBS;(TUD_voor_timons_vergelijking);201434;;20042
+34;Corridors 3;CBS;(TUD_voor_timons_vergelijking);201454;788;10233
+34;Corridors 3;M*;Python (TU);178891;;20287
+34;Corridors 3;M*;Python (TU);179301;774;13486
+34;Corridors 3;M*;Python (TU);179281;850;13681
+34;Corridors 3;M*;Python (TU);179261;738;7134
+34;Corridors 3;M*;Python (TU);179241;;20230
+34;Corridors 3;M*;Python (TU);179221;;20219
+34;Corridors 3;M*;Python (TU);179201;804;106
+34;Corridors 3;M*;Python (TU);179131;;20274
+34;Corridors 3;M*;Python (TU);178961;;20801
+34;Corridors 3;M*;Python (TU);178821;;20205
+34;Corridors 3;M* Inflated;Python (TU);179551;852;57
+34;Corridors 3;M* Inflated;Python (TU);179531;790;194
+34;Corridors 3;M* Inflated;Python (TU);179511;780;9578
+34;Corridors 3;M* Inflated;Python (TU);179491;681;104
+34;Corridors 3;M* Inflated;Python (TU);179471;854;89
+34;Corridors 3;M* Inflated;Python (TU);179451;976;184
+34;Corridors 3;M* Inflated;Python (TU);179431;826;59
+34;Corridors 3;M* Inflated;Python (TU);179411;881;119
+34;Corridors 3;M* Inflated;Python (TU);179391;802;2559
+34;Corridors 3;M* Inflated;Python (TU);179371;751;642
+34;Corridors 3;Unordered MLA* v2;linear, resting, dist (TU);201971;;
+34;Corridors 3;Unordered MLA* v2;linear, resting, dist (TU);201969;1183;54
+34;Corridors 3;Unordered MLA* v2;linear, resting, dist (TU);201924;1069;46
+34;Corridors 3;Unordered MLA* v2;linear, resting, dist (TU);201932;957;33
+34;Corridors 3;Unordered MLA* v2;linear, resting, dist (TU);201963;1202;40
+34;Corridors 3;Unordered MLA* v2;linear, resting, dist (TU);201964;994;32
+34;Corridors 3;Unordered MLA* v2;linear, resting, dist (TU);201965;1076;39
+34;Corridors 3;Unordered MLA* v2;linear, resting, dist (TU);201966;1190;147
+34;Corridors 3;Unordered MLA* v2;linear, resting, dist (TU);201967;1174;47
+34;Corridors 3;Unordered MLA* v2;linear, resting, dist (TU);201968;1131;49
+34;Corridors 3;Unordered MLA* v2;linear, resting, dist (TU);201970;1125;72
+35;Corridors 4;A*+OD+ID;correct TSP cache (TU);60494;822;2377
+35;Corridors 4;A*+OD+ID;correct TSP cache (TU);60529;;122297
+35;Corridors 4;A*+OD+ID;correct TSP cache (TU);60437;;122509
+35;Corridors 4;A*+OD+ID;correct TSP cache (TU);60434;;120056
+35;Corridors 4;A*+OD+ID;correct TSP cache (TU);60538;;124994
+35;Corridors 4;A*+OD+ID;correct TSP cache (TU);60575;667;1040
+35;Corridors 4;A*+OD+ID;correct TSP cache (TU);60584;;123429
+35;Corridors 4;A*+OD+ID;correct TSP cache (TU);60620;739;5577
+35;Corridors 4;A*+OD+ID;correct TSP cache (TU);60629;775;202
+35;Corridors 4;A*+OD+ID;correct TSP cache (TU);60488;800;267
+35;Corridors 4;BCP;heuristic-based waypoints 64 (TUD);54965;695;113581
+35;Corridors 4;BCP;heuristic-based waypoints 64 (TUD);60639;874;216165
+35;Corridors 4;BCP;heuristic-based waypoints 64 (TUD);60677;820;214
+35;Corridors 4;BCP;heuristic-based waypoints 64 (TUD);60969;723;434
+35;Corridors 4;BCP;heuristic-based waypoints 64 (TUD);56785;762;310478
+35;Corridors 4;BCP;heuristic-based waypoints 64 (TUD);60140;1004;12823
+35;Corridors 4;BCP;heuristic-based waypoints 64 (TUD);58705;839;600025
+35;Corridors 4;BCP;heuristic-based waypoints 64 (TUD);50325;794;24044
+35;Corridors 4;BCP;heuristic-based waypoints 64 (TUD);53195;860;4503
+35;Corridors 4;BCP;heuristic-based waypoints 64 (TUD);60470;684;16570
+35;Corridors 4;CBS;(TUD);47590;;1019
+35;Corridors 4;CBS;(TUD);48154;;
+35;Corridors 4;CBS;(TUD);48084;808;510
+35;Corridors 4;CBS;(TUD);47920;;3035
+35;Corridors 4;CBS;(TUD);47900;;3031
+35;Corridors 4;CBS;(TUD);47880;;3026
+35;Corridors 4;CBS;(TUD);47810;;3034
+35;Corridors 4;CBS;(TUD);47790;;3020
+35;Corridors 4;CBS;(TUD);47770;846;881
+35;Corridors 4;CBS;(TUD);47650;;3024
+35;Corridors 4;CBS;(TUD);47630;;3025
+35;Corridors 4;CBS;(TUD);47610;;3031
+35;Corridors 4;CBS;(TUD);45074;;
+35;Corridors 4;CBS;(TUD_voor_timons_vergelijking);201315;786;690
+35;Corridors 4;CBS;(TUD_voor_timons_vergelijking);201455;;20050
+35;Corridors 4;CBS;(TUD_voor_timons_vergelijking);201435;922;642
+35;Corridors 4;CBS;(TUD_voor_timons_vergelijking);201295;685;6240
+35;Corridors 4;CBS;(TUD_voor_timons_vergelijking);201415;;20029
+35;Corridors 4;CBS;(TUD_voor_timons_vergelijking);201395;937;471
+35;Corridors 4;CBS;(TUD_voor_timons_vergelijking);201375;;20088
+35;Corridors 4;CBS;(TUD_voor_timons_vergelijking);201355;718;17324
+35;Corridors 4;CBS;(TUD_voor_timons_vergelijking);201335;;20040
+35;Corridors 4;CBS;(TUD_voor_timons_vergelijking);201275;;20048
+35;Corridors 4;M*;Python (TU);179202;;20241
+35;Corridors 4;M*;Python (TU);178822;851;515
+35;Corridors 4;M*;Python (TU);178892;;20243
+35;Corridors 4;M*;Python (TU);179012;824;5000
+35;Corridors 4;M*;Python (TU);179132;;20234
+35;Corridors 4;M*;Python (TU);179222;;20278
+35;Corridors 4;M*;Python (TU);179242;;20276
+35;Corridors 4;M*;Python (TU);179262;;20300
+35;Corridors 4;M*;Python (TU);179282;;20232
+35;Corridors 4;M*;Python (TU);179302;;20223
+35;Corridors 4;M* Inflated;Python (TU);179492;822;615
+35;Corridors 4;M* Inflated;Python (TU);179452;652;36
+35;Corridors 4;M* Inflated;Python (TU);179532;806;45
+35;Corridors 4;M* Inflated;Python (TU);179432;926;164
+35;Corridors 4;M* Inflated;Python (TU);179512;763;168
+35;Corridors 4;M* Inflated;Python (TU);179472;889;62
+35;Corridors 4;M* Inflated;Python (TU);179372;820;112
+35;Corridors 4;M* Inflated;Python (TU);179392;797;74
+35;Corridors 4;M* Inflated;Python (TU);179412;;20286
+35;Corridors 4;M* Inflated;Python (TU);179552;754;1542
+35;Corridors 4;Unordered MLA* v2;linear, resting, dist (TU);201925;1389;206
+35;Corridors 4;Unordered MLA* v2;linear, resting, dist (TU);201973;;
+35;Corridors 4;Unordered MLA* v2;linear, resting, dist (TU);201933;1077;268
+35;Corridors 4;Unordered MLA* v2;linear, resting, dist (TU);201972;1031;30
+36;Corridors 5;A*+OD+ID;correct TSP cache (TU);60495;;123042
+36;Corridors 5;A*+OD+ID;correct TSP cache (TU);60630;;122811
+36;Corridors 5;A*+OD+ID;correct TSP cache (TU);60621;835;2140
+36;Corridors 5;A*+OD+ID;correct TSP cache (TU);60586;;122421
+36;Corridors 5;A*+OD+ID;correct TSP cache (TU);60576;;122490
+36;Corridors 5;A*+OD+ID;correct TSP cache (TU);60540;;125036
+36;Corridors 5;A*+OD+ID;correct TSP cache (TU);60533;763;110992
+36;Corridors 5;A*+OD+ID;correct TSP cache (TU);60489;935;10338
+36;Corridors 5;A*+OD+ID;correct TSP cache (TU);60440;997;69072
+36;Corridors 5;A*+OD+ID;correct TSP cache (TU);60436;;123736
+36;Corridors 5;BCP;heuristic-based waypoints 64 (TUD);50376;816;619
+36;Corridors 5;BCP;heuristic-based waypoints 64 (TUD);53196;926;92155
+36;Corridors 5;BCP;heuristic-based waypoints 64 (TUD);55201;818;702
+36;Corridors 5;BCP;heuristic-based waypoints 64 (TUD);56910;811;24757
+36;Corridors 5;BCP;heuristic-based waypoints 64 (TUD);58993;841;154366
+36;Corridors 5;BCP;heuristic-based waypoints 64 (TUD);60143;841;600007
+36;Corridors 5;BCP;heuristic-based waypoints 64 (TUD);60471;979;14005
+36;Corridors 5;BCP;heuristic-based waypoints 64 (TUD);60646;866;212
+36;Corridors 5;BCP;heuristic-based waypoints 64 (TUD);60678;828;4390
+36;Corridors 5;BCP;heuristic-based waypoints 64 (TUD);60970;867;1518
+36;Corridors 5;CBS;(TUD);47591;;1025
+36;Corridors 5;CBS;(TUD);47921;;3028
+36;Corridors 5;CBS;(TUD);48085;;3021
+36;Corridors 5;CBS;(TUD);47901;;3025
+36;Corridors 5;CBS;(TUD);47881;;3038
+36;Corridors 5;CBS;(TUD);47811;;3022
+36;Corridors 5;CBS;(TUD);47791;;3032
+36;Corridors 5;CBS;(TUD);47771;870;398
+36;Corridors 5;CBS;(TUD);47651;894;613
+36;Corridors 5;CBS;(TUD);47631;;3027
+36;Corridors 5;CBS;(TUD);47611;;3021
+36;Corridors 5;CBS;(TUD_voor_timons_vergelijking);201456;;20050
+36;Corridors 5;CBS;(TUD_voor_timons_vergelijking);201316;;20053
+36;Corridors 5;CBS;(TUD_voor_timons_vergelijking);201276;868;1072
+36;Corridors 5;CBS;(TUD_voor_timons_vergelijking);201296;;20070
+36;Corridors 5;CBS;(TUD_voor_timons_vergelijking);201336;816;18435
+36;Corridors 5;CBS;(TUD_voor_timons_vergelijking);201356;;20039
+36;Corridors 5;CBS;(TUD_voor_timons_vergelijking);201376;;20117
+36;Corridors 5;CBS;(TUD_voor_timons_vergelijking);201396;;20056
+36;Corridors 5;CBS;(TUD_voor_timons_vergelijking);201416;;20045
+36;Corridors 5;CBS;(TUD_voor_timons_vergelijking);201436;;20046
+36;Corridors 5;M*;Python (TU);179303;;20208
+36;Corridors 5;M*;Python (TU);178823;;20236
+36;Corridors 5;M*;Python (TU);178893;;20217
+36;Corridors 5;M*;Python (TU);179013;900;104
+36;Corridors 5;M*;Python (TU);179133;770;134
+36;Corridors 5;M*;Python (TU);179203;925;1178
+36;Corridors 5;M*;Python (TU);179223;;20179
+36;Corridors 5;M*;Python (TU);179243;;20267
+36;Corridors 5;M*;Python (TU);179263;;20267
+36;Corridors 5;M*;Python (TU);179283;;20242
+36;Corridors 5;M* Inflated;Python (TU);179553;867;74
+36;Corridors 5;M* Inflated;Python (TU);179533;951;54
+36;Corridors 5;M* Inflated;Python (TU);179513;876;469
+36;Corridors 5;M* Inflated;Python (TU);179493;762;2132
+36;Corridors 5;M* Inflated;Python (TU);179473;883;163
+36;Corridors 5;M* Inflated;Python (TU);179453;932;769
+36;Corridors 5;M* Inflated;Python (TU);179433;845;48
+36;Corridors 5;M* Inflated;Python (TU);179413;847;320
+36;Corridors 5;M* Inflated;Python (TU);179393;996;4978
+36;Corridors 5;M* Inflated;Python (TU);179373;911;421
+36;Corridors 5;Unordered MLA* v2;linear, resting, dist (TU);201976;;
+36;Corridors 5;Unordered MLA* v2;linear, resting, dist (TU);201975;1475;71
+36;Corridors 5;Unordered MLA* v2;linear, resting, dist (TU);201974;977;30
+36;Corridors 5;Unordered MLA* v2;linear, resting, dist (TU);201934;899;23
+36;Corridors 5;Unordered MLA* v2;linear, resting, dist (TU);201926;1144;32
+37;Chokepoints 1;A*+OD+ID;correct TSP cache (TU);60582;603;646
+37;Chokepoints 1;A*+OD+ID;correct TSP cache (TU);60438;546;890
+37;Chokepoints 1;A*+OD+ID;correct TSP cache (TU);60444;590;67133
+37;Chokepoints 1;A*+OD+ID;correct TSP cache (TU);60490;594;1076
+37;Chokepoints 1;A*+OD+ID;correct TSP cache (TU);60497;617;1457
+37;Chokepoints 1;A*+OD+ID;correct TSP cache (TU);60534;;124105
+37;Chokepoints 1;A*+OD+ID;correct TSP cache (TU);60632;589;6931
+37;Chokepoints 1;A*+OD+ID;correct TSP cache (TU);60622;585;420
+37;Chokepoints 1;A*+OD+ID;correct TSP cache (TU);60588;592;347
+37;Chokepoints 1;A*+OD+ID;correct TSP cache (TU);60543;;123587
+37;Chokepoints 1;BCP;heuristic-based waypoints 64 (TUD);60971;611;4568
+37;Chokepoints 1;BCP;heuristic-based waypoints 64 (TUD);50377;593;2380
+37;Chokepoints 1;BCP;heuristic-based waypoints 64 (TUD);53297;634;1756
+37;Chokepoints 1;BCP;heuristic-based waypoints 64 (TUD);55213;527;728
+37;Chokepoints 1;BCP;heuristic-based waypoints 64 (TUD);56937;597;1770
+37;Chokepoints 1;BCP;heuristic-based waypoints 64 (TUD);59057;546;840
+37;Chokepoints 1;BCP;heuristic-based waypoints 64 (TUD);60154;535;379
+37;Chokepoints 1;BCP;heuristic-based waypoints 64 (TUD);60679;570;4878
+37;Chokepoints 1;BCP;heuristic-based waypoints 64 (TUD);60647;578;6272
+37;Chokepoints 1;BCP;heuristic-based waypoints 64 (TUD);60474;592;356
+37;Chokepoints 1;CBS;(TUD);47592;515;296
+37;Chokepoints 1;CBS;(TUD);48086;550;286
+37;Chokepoints 1;CBS;(TUD);47972;507;435
+37;Chokepoints 1;CBS;(TUD);47902;;3025
+37;Chokepoints 1;CBS;(TUD);47882;;3025
+37;Chokepoints 1;CBS;(TUD);47812;460;154
+37;Chokepoints 1;CBS;(TUD);47792;527;387
+37;Chokepoints 1;CBS;(TUD);47772;618;551
+37;Chokepoints 1;CBS;(TUD);47652;611;320
+37;Chokepoints 1;CBS;(TUD);47632;606;251
+37;Chokepoints 1;CBS;(TUD);47612;639;963
+37;Chokepoints 1;CBS;(TUD_voor_timons_vergelijking);201277;654;659
+37;Chokepoints 1;CBS;(TUD_voor_timons_vergelijking);201457;467;373
+37;Chokepoints 1;CBS;(TUD_voor_timons_vergelijking);201437;631;296
+37;Chokepoints 1;CBS;(TUD_voor_timons_vergelijking);201397;646;2271
+37;Chokepoints 1;CBS;(TUD_voor_timons_vergelijking);201377;539;9963
+37;Chokepoints 1;CBS;(TUD_voor_timons_vergelijking);201357;562;345
+37;Chokepoints 1;CBS;(TUD_voor_timons_vergelijking);201337;601;1681
+37;Chokepoints 1;CBS;(TUD_voor_timons_vergelijking);201417;651;139
+37;Chokepoints 1;CBS;(TUD_voor_timons_vergelijking);201317;603;8249
+37;Chokepoints 1;CBS;(TUD_voor_timons_vergelijking);201297;560;1205
+37;Chokepoints 1;M*;Python (TU);179304;530;621
+37;Chokepoints 1;M*;Python (TU);178824;;20356
+37;Chokepoints 1;M*;Python (TU);178894;;20330
+37;Chokepoints 1;M*;Python (TU);179014;;20351
+37;Chokepoints 1;M*;Python (TU);179134;436;4963
+37;Chokepoints 1;M*;Python (TU);179204;;20362
+37;Chokepoints 1;M*;Python (TU);179224;554;19488
+37;Chokepoints 1;M*;Python (TU);179244;;20227
+37;Chokepoints 1;M*;Python (TU);179264;552;17491
+37;Chokepoints 1;M*;Python (TU);179284;;20273
+37;Chokepoints 1;M* Inflated;Python (TU);179374;592;71
+37;Chokepoints 1;M* Inflated;Python (TU);179494;571;130
+37;Chokepoints 1;M* Inflated;Python (TU);179414;501;67
+37;Chokepoints 1;M* Inflated;Python (TU);179534;560;74
+37;Chokepoints 1;M* Inflated;Python (TU);179554;607;75
+37;Chokepoints 1;M* Inflated;Python (TU);179474;474;1636
+37;Chokepoints 1;M* Inflated;Python (TU);179454;596;81
+37;Chokepoints 1;M* Inflated;Python (TU);179434;571;62
+37;Chokepoints 1;M* Inflated;Python (TU);179514;627;71
+37;Chokepoints 1;M* Inflated;Python (TU);179394;581;267
+37;Chokepoints 1;Unordered MLA* v2;linear, resting, dist (TU);201981;578;125
+37;Chokepoints 1;Unordered MLA* v2;linear, resting, dist (TU);201979;692;145
+37;Chokepoints 1;Unordered MLA* v2;linear, resting, dist (TU);201980;666;54
+37;Chokepoints 1;Unordered MLA* v2;linear, resting, dist (TU);201978;629;52
+37;Chokepoints 1;Unordered MLA* v2;linear, resting, dist (TU);201982;673;67
+37;Chokepoints 1;Unordered MLA* v2;linear, resting, dist (TU);201983;648;131
+37;Chokepoints 1;Unordered MLA* v2;linear, resting, dist (TU);201984;773;87
+37;Chokepoints 1;Unordered MLA* v2;linear, resting, dist (TU);201985;685;133
+37;Chokepoints 1;Unordered MLA* v2;linear, resting, dist (TU);201986;742;74
+37;Chokepoints 1;Unordered MLA* v2;linear, resting, dist (TU);201977;653;123
+37;Chokepoints 1;Unordered MLA* v2;linear, resting, dist (TU);201927;643;230
+37;Chokepoints 1;Unordered MLA* v2;linear, resting, dist (TU);201935;654;71
+38;Chokepoints 2;A*+OD+ID;correct TSP cache (TU);60448;615;100388
+38;Chokepoints 2;A*+OD+ID;correct TSP cache (TU);60633;;123459
+38;Chokepoints 2;A*+OD+ID;correct TSP cache (TU);60623;;122105
+38;Chokepoints 2;A*+OD+ID;correct TSP cache (TU);60589;;122633
+38;Chokepoints 2;A*+OD+ID;correct TSP cache (TU);60583;;123709
+38;Chokepoints 2;A*+OD+ID;correct TSP cache (TU);60545;589;74859
+38;Chokepoints 2;A*+OD+ID;correct TSP cache (TU);60537;671;10385
+38;Chokepoints 2;A*+OD+ID;correct TSP cache (TU);60498;;124304
+38;Chokepoints 2;A*+OD+ID;correct TSP cache (TU);60491;;123056
+38;Chokepoints 2;A*+OD+ID;correct TSP cache (TU);60439;;123943
+38;Chokepoints 2;BCP;heuristic-based waypoints 64 (TUD);50378;674;36489
+38;Chokepoints 2;BCP;heuristic-based waypoints 64 (TUD);60648;628;607
+38;Chokepoints 2;BCP;heuristic-based waypoints 64 (TUD);60972;752;8626
+38;Chokepoints 2;BCP;heuristic-based waypoints 64 (TUD);60680;740;2256
+38;Chokepoints 2;BCP;heuristic-based waypoints 64 (TUD);59058;734;3677
+38;Chokepoints 2;BCP;heuristic-based waypoints 64 (TUD);60155;680;221417
+38;Chokepoints 2;BCP;heuristic-based waypoints 64 (TUD);56938;546;2408
+38;Chokepoints 2;BCP;heuristic-based waypoints 64 (TUD);55218;645;24564
+38;Chokepoints 2;BCP;heuristic-based waypoints 64 (TUD);60475;649;7646
+38;Chokepoints 2;BCP;heuristic-based waypoints 64 (TUD);53298;681;18485
+38;Chokepoints 2;CBS;(TUD);47613;704;1338
+38;Chokepoints 2;CBS;(TUD);47593;691;695
+38;Chokepoints 2;CBS;(TUD);47633;;3020
+38;Chokepoints 2;CBS;(TUD);47653;;3024
+38;Chokepoints 2;CBS;(TUD);47773;637;2184
+38;Chokepoints 2;CBS;(TUD);47883;619;187
+38;Chokepoints 2;CBS;(TUD);47793;;3030
+38;Chokepoints 2;CBS;(TUD);47813;;3037
+38;Chokepoints 2;CBS;(TUD);48087;;3026
+38;Chokepoints 2;CBS;(TUD);47973;;3033
+38;Chokepoints 2;CBS;(TUD);47903;;3025
+38;Chokepoints 2;CBS;(TUD_voor_timons_vergelijking);201378;770;8111
+38;Chokepoints 2;CBS;(TUD_voor_timons_vergelijking);201278;594;540
+38;Chokepoints 2;CBS;(TUD_voor_timons_vergelijking);201298;617;6810
+38;Chokepoints 2;CBS;(TUD_voor_timons_vergelijking);201318;;20061
+38;Chokepoints 2;CBS;(TUD_voor_timons_vergelijking);201338;620;2866
+38;Chokepoints 2;CBS;(TUD_voor_timons_vergelijking);201358;645;11113
+38;Chokepoints 2;CBS;(TUD_voor_timons_vergelijking);201398;;20050
+38;Chokepoints 2;CBS;(TUD_voor_timons_vergelijking);201418;;20040
+38;Chokepoints 2;CBS;(TUD_voor_timons_vergelijking);201438;753;369
+38;Chokepoints 2;CBS;(TUD_voor_timons_vergelijking);201458;597;2017
+38;Chokepoints 2;M*;Python (TU);178825;;20333
+38;Chokepoints 2;M*;Python (TU);178895;;20239
+38;Chokepoints 2;M*;Python (TU);179065;;20292
+38;Chokepoints 2;M*;Python (TU);179135;;20324
+38;Chokepoints 2;M*;Python (TU);179205;;20473
+38;Chokepoints 2;M*;Python (TU);179225;;20241
+38;Chokepoints 2;M*;Python (TU);179245;;20328
+38;Chokepoints 2;M*;Python (TU);179265;;20313
+38;Chokepoints 2;M*;Python (TU);179285;;20358
+38;Chokepoints 2;M*;Python (TU);179305;;20296
+38;Chokepoints 2;M* Inflated;Python (TU);179375;723;76
+38;Chokepoints 2;M* Inflated;Python (TU);179555;728;173
+38;Chokepoints 2;M* Inflated;Python (TU);179535;722;104
+38;Chokepoints 2;M* Inflated;Python (TU);179515;767;110
+38;Chokepoints 2;M* Inflated;Python (TU);179495;691;99
+38;Chokepoints 2;M* Inflated;Python (TU);179475;586;88
+38;Chokepoints 2;M* Inflated;Python (TU);179455;775;385
+38;Chokepoints 2;M* Inflated;Python (TU);179435;644;87
+38;Chokepoints 2;M* Inflated;Python (TU);179415;600;60
+38;Chokepoints 2;M* Inflated;Python (TU);179395;581;62
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);201996;941;717
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);201989;1059;1240
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);201988;920;577
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);201987;790;367
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);201936;788;287
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);201928;723;303
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);201995;824;435
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);202004;919;415
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);201990;818;159
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);202003;905;635
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);202002;897;324
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);202001;830;690
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);202000;903;402
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);201999;722;145
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);201998;808;430
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);201997;782;359
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);201991;845;374
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);201992;887;350
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);201993;826;384
+38;Chokepoints 2;Unordered MLA* v2;linear, resting, dist (TU);201994;;
+39;Chokepoints 3;A*+OD+ID;correct TSP cache (TU);60638;;124360
+39;Chokepoints 3;A*+OD+ID;correct TSP cache (TU);60625;;123667
+39;Chokepoints 3;A*+OD+ID;correct TSP cache (TU);60592;;124376
+39;Chokepoints 3;A*+OD+ID;correct TSP cache (TU);60585;;121988
+39;Chokepoints 3;A*+OD+ID;correct TSP cache (TU);60550;;123222
+39;Chokepoints 3;A*+OD+ID;correct TSP cache (TU);60539;;123402
+39;Chokepoints 3;A*+OD+ID;correct TSP cache (TU);60501;;123851
+39;Chokepoints 3;A*+OD+ID;correct TSP cache (TU);60493;;123246
+39;Chokepoints 3;A*+OD+ID;correct TSP cache (TU);60450;;123611
+39;Chokepoints 3;A*+OD+ID;correct TSP cache (TU);60447;;123277
+39;Chokepoints 3;BCP;heuristic-based waypoints 64 (TUD);53299;678;600036
+39;Chokepoints 3;BCP;heuristic-based waypoints 64 (TUD);60973;542;109386
+39;Chokepoints 3;BCP;heuristic-based waypoints 64 (TUD);60681;575;600026
+39;Chokepoints 3;BCP;heuristic-based waypoints 64 (TUD);60649;561;306202
+39;Chokepoints 3;BCP;heuristic-based waypoints 64 (TUD);60476;560;12368
+39;Chokepoints 3;BCP;heuristic-based waypoints 64 (TUD);60156;706;600070
+39;Chokepoints 3;BCP;heuristic-based waypoints 64 (TUD);59059;563;64244
+39;Chokepoints 3;BCP;heuristic-based waypoints 64 (TUD);56939;558;209
+39;Chokepoints 3;BCP;heuristic-based waypoints 64 (TUD);55219;515;1375
+39;Chokepoints 3;BCP;heuristic-based waypoints 64 (TUD);50429;657;600062
+39;Chokepoints 3;CBS;(TUD);48088;;3020
+39;Chokepoints 3;CBS;(TUD);47594;;1029
+39;Chokepoints 3;CBS;(TUD);47614;627;277
+39;Chokepoints 3;CBS;(TUD);47634;;3025
+39;Chokepoints 3;CBS;(TUD);47679;;3020
+39;Chokepoints 3;CBS;(TUD);47774;584;752
+39;Chokepoints 3;CBS;(TUD);47794;;3025
+39;Chokepoints 3;CBS;(TUD);47864;;3025
+39;Chokepoints 3;CBS;(TUD);47884;556;1258
+39;Chokepoints 3;CBS;(TUD);47904;;3034
+39;Chokepoints 3;CBS;(TUD);47974;;3024
+39;Chokepoints 3;CBS;(TUD_voor_timons_vergelijking);201439;;20036
+39;Chokepoints 3;CBS;(TUD_voor_timons_vergelijking);201279;;20041
+39;Chokepoints 3;CBS;(TUD_voor_timons_vergelijking);201299;647;1119
+39;Chokepoints 3;CBS;(TUD_voor_timons_vergelijking);201319;551;1606
+39;Chokepoints 3;CBS;(TUD_voor_timons_vergelijking);201339;665;11186
+39;Chokepoints 3;CBS;(TUD_voor_timons_vergelijking);201359;;20049
+39;Chokepoints 3;CBS;(TUD_voor_timons_vergelijking);201379;;20043
+39;Chokepoints 3;CBS;(TUD_voor_timons_vergelijking);201399;603;3472
+39;Chokepoints 3;CBS;(TUD_voor_timons_vergelijking);201419;;20060
+39;Chokepoints 3;CBS;(TUD_voor_timons_vergelijking);201459;;20059
+39;Chokepoints 3;M*;Python (TU);179306;;20180
+39;Chokepoints 3;M*;Python (TU);178826;;20242
+39;Chokepoints 3;M*;Python (TU);178896;;20220
+39;Chokepoints 3;M*;Python (TU);179066;;20220
+39;Chokepoints 3;M*;Python (TU);179136;;20585
+39;Chokepoints 3;M*;Python (TU);179206;;20219
+39;Chokepoints 3;M*;Python (TU);179226;;20293
+39;Chokepoints 3;M*;Python (TU);179246;;20269
+39;Chokepoints 3;M*;Python (TU);179266;;20387
+39;Chokepoints 3;M*;Python (TU);179286;;20340
+39;Chokepoints 3;M* Inflated;Python (TU);179556;620;258
+39;Chokepoints 3;M* Inflated;Python (TU);179376;;20229
+39;Chokepoints 3;M* Inflated;Python (TU);179396;;20228
+39;Chokepoints 3;M* Inflated;Python (TU);179416;467;110
+39;Chokepoints 3;M* Inflated;Python (TU);179436;613;157
+39;Chokepoints 3;M* Inflated;Python (TU);179456;567;58
+39;Chokepoints 3;M* Inflated;Python (TU);179476;;20301
+39;Chokepoints 3;M* Inflated;Python (TU);179496;;20381
+39;Chokepoints 3;M* Inflated;Python (TU);179516;493;81
+39;Chokepoints 3;M* Inflated;Python (TU);179536;609;19629
+39;Chokepoints 3;Unordered MLA* v2;linear, resting, dist (TU);213564;1015;1552
+39;Chokepoints 3;Unordered MLA* v2;linear, resting, dist (TU);201929;;
+39;Chokepoints 3;Unordered MLA* v2;linear, resting, dist (TU);201937;898;883
+39;Chokepoints 3;Unordered MLA* v2;linear, resting, dist (TU);202005;809;302
+39;Chokepoints 3;Unordered MLA* v2;linear, resting, dist (TU);202007;;
+39;Chokepoints 3;Unordered MLA* v2;linear, resting, dist (TU);213508;858;810
+39;Chokepoints 3;Unordered MLA* v2;linear, resting, dist (TU);213509;893;894
+39;Chokepoints 3;Unordered MLA* v2;linear, resting, dist (TU);213510;;
+39;Chokepoints 3;Unordered MLA* v2;linear, resting, dist (TU);213538;792;884
+39;Chokepoints 3;Unordered MLA* v2;linear, resting, dist (TU);213562;717;335
+39;Chokepoints 3;Unordered MLA* v2;linear, resting, dist (TU);213563;879;713
+39;Chokepoints 3;Unordered MLA* v2;linear, resting, dist (TU);213565;;
+40;Chokepoints 4;A*+OD+ID;correct TSP cache (TU);60506;613;622
+40;Chokepoints 4;A*+OD+ID;correct TSP cache (TU);60496;;120855
+40;Chokepoints 4;A*+OD+ID;correct TSP cache (TU);60641;;122380
+40;Chokepoints 4;A*+OD+ID;correct TSP cache (TU);60452;;126471
+40;Chokepoints 4;A*+OD+ID;correct TSP cache (TU);60449;;124512
+40;Chokepoints 4;A*+OD+ID;correct TSP cache (TU);60627;;123625
+40;Chokepoints 4;A*+OD+ID;correct TSP cache (TU);60597;;122503
+40;Chokepoints 4;A*+OD+ID;correct TSP cache (TU);60587;;122859
+40;Chokepoints 4;A*+OD+ID;correct TSP cache (TU);60552;;120519
+40;Chokepoints 4;A*+OD+ID;correct TSP cache (TU);60541;;121201
+40;Chokepoints 4;BCP;heuristic-based waypoints 64 (TUD);53700;631;142756
+40;Chokepoints 4;BCP;heuristic-based waypoints 64 (TUD);60974;550;26622
+40;Chokepoints 4;BCP;heuristic-based waypoints 64 (TUD);60682;680;600011
+40;Chokepoints 4;BCP;heuristic-based waypoints 64 (TUD);60657;639;171175
+40;Chokepoints 4;BCP;heuristic-based waypoints 64 (TUD);60477;;604937
+40;Chokepoints 4;BCP;heuristic-based waypoints 64 (TUD);60188;594;106604
+40;Chokepoints 4;BCP;heuristic-based waypoints 64 (TUD);59110;595;210537
+40;Chokepoints 4;BCP;heuristic-based waypoints 64 (TUD);56940;693;326585
+40;Chokepoints 4;BCP;heuristic-based waypoints 64 (TUD);55220;641;134452
+40;Chokepoints 4;BCP;heuristic-based waypoints 64 (TUD);50930;716;243173
+40;Chokepoints 4;CBS;(TUD);47615;;3025
+40;Chokepoints 4;CBS;(TUD);48089;;3025
+40;Chokepoints 4;CBS;(TUD);47975;;3031
+40;Chokepoints 4;CBS;(TUD);47905;;3030
+40;Chokepoints 4;CBS;(TUD);47885;;3024
+40;Chokepoints 4;CBS;(TUD);47865;;3034
+40;Chokepoints 4;CBS;(TUD);47795;;3031
+40;Chokepoints 4;CBS;(TUD);47775;;3026
+40;Chokepoints 4;CBS;(TUD);47705;;3029
+40;Chokepoints 4;CBS;(TUD);47635;546;596
+40;Chokepoints 4;CBS;(TUD);47595;541;547
+40;Chokepoints 4;CBS;(TUD_voor_timons_vergelijking);201380;;20042
+40;Chokepoints 4;CBS;(TUD_voor_timons_vergelijking);201280;;20043
+40;Chokepoints 4;CBS;(TUD_voor_timons_vergelijking);201300;;20054
+40;Chokepoints 4;CBS;(TUD_voor_timons_vergelijking);201320;;20033
+40;Chokepoints 4;CBS;(TUD_voor_timons_vergelijking);201340;;20093
+40;Chokepoints 4;CBS;(TUD_voor_timons_vergelijking);201360;;20043
+40;Chokepoints 4;CBS;(TUD_voor_timons_vergelijking);201400;;20041
+40;Chokepoints 4;CBS;(TUD_voor_timons_vergelijking);201420;;20043
+40;Chokepoints 4;CBS;(TUD_voor_timons_vergelijking);201440;;20033
+40;Chokepoints 4;CBS;(TUD_voor_timons_vergelijking);201460;;20038
+40;Chokepoints 4;M*;Python (TU);178827;;20272
+40;Chokepoints 4;M*;Python (TU);179307;;20221
+40;Chokepoints 4;M*;Python (TU);179287;;20269
+40;Chokepoints 4;M*;Python (TU);179267;;20357
+40;Chokepoints 4;M*;Python (TU);179247;;20753
+40;Chokepoints 4;M*;Python (TU);179227;;20260
+40;Chokepoints 4;M*;Python (TU);179207;;20245
+40;Chokepoints 4;M*;Python (TU);179137;;20659
+40;Chokepoints 4;M*;Python (TU);179067;;20198
+40;Chokepoints 4;M*;Python (TU);178897;;20273
+40;Chokepoints 4;M* Inflated;Python (TU);179417;693;1875
+40;Chokepoints 4;M* Inflated;Python (TU);179557;627;16192
+40;Chokepoints 4;M* Inflated;Python (TU);179537;682;17169
+40;Chokepoints 4;M* Inflated;Python (TU);179517;;20293
+40;Chokepoints 4;M* Inflated;Python (TU);179497;;20217
+40;Chokepoints 4;M* Inflated;Python (TU);179477;;20330
+40;Chokepoints 4;M* Inflated;Python (TU);179457;724;86
+40;Chokepoints 4;M* Inflated;Python (TU);179437;668;399
+40;Chokepoints 4;M* Inflated;Python (TU);179377;;20218
+40;Chokepoints 4;M* Inflated;Python (TU);179397;683;267
+40;Chokepoints 4;Unordered MLA* v2;linear, resting, dist (TU);213568;788;621
+40;Chokepoints 4;Unordered MLA* v2;linear, resting, dist (TU);201938;1013;1248
+40;Chokepoints 4;Unordered MLA* v2;linear, resting, dist (TU);213571;999;1260
+40;Chokepoints 4;Unordered MLA* v2;linear, resting, dist (TU);213572;965;1272
+40;Chokepoints 4;Unordered MLA* v2;linear, resting, dist (TU);213573;1097;1660
+40;Chokepoints 4;Unordered MLA* v2;linear, resting, dist (TU);213574;922;1301
+40;Chokepoints 4;Unordered MLA* v2;linear, resting, dist (TU);213569;;
+40;Chokepoints 4;Unordered MLA* v2;linear, resting, dist (TU);213570;811;511
+40;Chokepoints 4;Unordered MLA* v2;linear, resting, dist (TU);213567;895;606
+40;Chokepoints 4;Unordered MLA* v2;linear, resting, dist (TU);213575;848;628
+40;Chokepoints 4;Unordered MLA* v2;linear, resting, dist (TU);202006;;
+40;Chokepoints 4;Unordered MLA* v2;linear, resting, dist (TU);213566;;
+41;Chokepoints 5;A*+OD+ID;correct TSP cache (TU);60651;;122703
+41;Chokepoints 5;A*+OD+ID;correct TSP cache (TU);60631;;123166
+41;Chokepoints 5;A*+OD+ID;correct TSP cache (TU);60599;;122819
+41;Chokepoints 5;A*+OD+ID;correct TSP cache (TU);60591;;120497
+41;Chokepoints 5;A*+OD+ID;correct TSP cache (TU);60558;;122295
+41;Chokepoints 5;A*+OD+ID;correct TSP cache (TU);60544;;123598
+41;Chokepoints 5;A*+OD+ID;correct TSP cache (TU);60507;;122684
+41;Chokepoints 5;A*+OD+ID;correct TSP cache (TU);60500;;122879
+41;Chokepoints 5;A*+OD+ID;correct TSP cache (TU);60460;;123552
+41;Chokepoints 5;A*+OD+ID;correct TSP cache (TU);60451;;122489
+41;Chokepoints 5;BCP;heuristic-based waypoints 64 (TUD);59361;654;600007
+41;Chokepoints 5;BCP;heuristic-based waypoints 64 (TUD);57269;;600072
+41;Chokepoints 5;BCP;heuristic-based waypoints 64 (TUD);55421;673;600027
+41;Chokepoints 5;BCP;heuristic-based waypoints 64 (TUD);53751;649;600031
+41;Chokepoints 5;BCP;heuristic-based waypoints 64 (TUD);51031;669;607170
+41;Chokepoints 5;BCP;heuristic-based waypoints 64 (TUD);60975;698;600120
+41;Chokepoints 5;BCP;heuristic-based waypoints 64 (TUD);60683;;609626
+41;Chokepoints 5;BCP;heuristic-based waypoints 64 (TUD);60661;711;600005
+41;Chokepoints 5;BCP;heuristic-based waypoints 64 (TUD);60499;644;600038
+41;Chokepoints 5;BCP;heuristic-based waypoints 64 (TUD);60189;604;84446
+41;Chokepoints 5;CBS;(TUD);47776;;3026
+41;Chokepoints 5;CBS;(TUD);47706;;3030
+41;Chokepoints 5;CBS;(TUD);47636;;3032
+41;Chokepoints 5;CBS;(TUD);47616;;3030
+41;Chokepoints 5;CBS;(TUD);47866;;3024
+41;Chokepoints 5;CBS;(TUD);47886;;3025
+41;Chokepoints 5;CBS;(TUD);48090;;3020
+41;Chokepoints 5;CBS;(TUD);47596;;1029
+41;Chokepoints 5;CBS;(TUD);48026;;3027
+41;Chokepoints 5;CBS;(TUD);47906;;3026
+41;Chokepoints 5;CBS;(TUD);47796;;3025
+41;Chokepoints 5;CBS;(TUD_voor_timons_vergelijking);201341;;20036
+41;Chokepoints 5;CBS;(TUD_voor_timons_vergelijking);201421;;20036
+41;Chokepoints 5;CBS;(TUD_voor_timons_vergelijking);201441;;20041
+41;Chokepoints 5;CBS;(TUD_voor_timons_vergelijking);201461;;20057
+41;Chokepoints 5;CBS;(TUD_voor_timons_vergelijking);201281;;20056
+41;Chokepoints 5;CBS;(TUD_voor_timons_vergelijking);201301;;20034
+41;Chokepoints 5;CBS;(TUD_voor_timons_vergelijking);201361;;20047
+41;Chokepoints 5;CBS;(TUD_voor_timons_vergelijking);201381;;20052
+41;Chokepoints 5;CBS;(TUD_voor_timons_vergelijking);201401;;20054
+41;Chokepoints 5;CBS;(TUD_voor_timons_vergelijking);201321;;20037
+41;Chokepoints 5;M*;Python (TU);179208;;20243
+41;Chokepoints 5;M*;Python (TU);179308;;20182
+41;Chokepoints 5;M*;Python (TU);179288;;20299
+41;Chokepoints 5;M*;Python (TU);179268;;20237
+41;Chokepoints 5;M*;Python (TU);179228;;20275
+41;Chokepoints 5;M*;Python (TU);179248;;20174
+41;Chokepoints 5;M*;Python (TU);178828;;20285
+41;Chokepoints 5;M*;Python (TU);178948;;20198
+41;Chokepoints 5;M*;Python (TU);179068;;20292
+41;Chokepoints 5;M*;Python (TU);179138;572;11928
+41;Chokepoints 5;M* Inflated;Python (TU);179518;;20207
+41;Chokepoints 5;M* Inflated;Python (TU);179558;548;87
+41;Chokepoints 5;M* Inflated;Python (TU);179538;;20240
+41;Chokepoints 5;M* Inflated;Python (TU);179498;;20263
+41;Chokepoints 5;M* Inflated;Python (TU);179478;;20243
+41;Chokepoints 5;M* Inflated;Python (TU);179458;;20212
+41;Chokepoints 5;M* Inflated;Python (TU);179438;;20208
+41;Chokepoints 5;M* Inflated;Python (TU);179418;585;2202
+41;Chokepoints 5;M* Inflated;Python (TU);179398;;20262
+41;Chokepoints 5;M* Inflated;Python (TU);179378;711;13629
+41;Chokepoints 5;Unordered MLA* v2;linear, resting, dist (TU);201939;;
+41;Chokepoints 5;Unordered MLA* v2;linear, resting, dist (TU);213835;;
+41;Chokepoints 5;Unordered MLA* v2;linear, resting, dist (TU);213834;;
+41;Chokepoints 5;Unordered MLA* v2;linear, resting, dist (TU);213833;1102;1007
+41;Chokepoints 5;Unordered MLA* v2;linear, resting, dist (TU);213832;940;493
+41;Chokepoints 5;Unordered MLA* v2;linear, resting, dist (TU);213831;;
+41;Chokepoints 5;Unordered MLA* v2;linear, resting, dist (TU);213830;880;934
+41;Chokepoints 5;Unordered MLA* v2;linear, resting, dist (TU);213779;;
+41;Chokepoints 5;Unordered MLA* v2;linear, resting, dist (TU);213778;886;483
+41;Chokepoints 5;Unordered MLA* v2;linear, resting, dist (TU);213577;;
+41;Chokepoints 5;Unordered MLA* v2;linear, resting, dist (TU);213576;1010;757
+42;Average Grade 1;A*+OD+ID;correct TSP cache (TU);60565;416;349
+42;Average Grade 1;A*+OD+ID;correct TSP cache (TU);60462;398;338
+42;Average Grade 1;A*+OD+ID;correct TSP cache (TU);60502;458;365
+42;Average Grade 1;A*+OD+ID;correct TSP cache (TU);60509;401;369
+42;Average Grade 1;A*+OD+ID;correct TSP cache (TU);60652;450;329
+42;Average Grade 1;A*+OD+ID;correct TSP cache (TU);60634;441;611
+42;Average Grade 1;A*+OD+ID;correct TSP cache (TU);60602;438;350
+42;Average Grade 1;A*+OD+ID;correct TSP cache (TU);60593;382;1820
+42;Average Grade 1;A*+OD+ID;correct TSP cache (TU);60456;372;320
+42;Average Grade 1;A*+OD+ID;correct TSP cache (TU);60546;442;326
+42;Average Grade 1;BCP;heuristic-based waypoints 64 (TUD);57892;451;343
+42;Average Grade 1;BCP;heuristic-based waypoints 64 (TUD);60976;397;80
+42;Average Grade 1;BCP;heuristic-based waypoints 64 (TUD);60684;382;133
+42;Average Grade 1;BCP;heuristic-based waypoints 64 (TUD);60664;437;217
+42;Average Grade 1;BCP;heuristic-based waypoints 64 (TUD);60521;418;212
+42;Average Grade 1;BCP;heuristic-based waypoints 64 (TUD);60190;393;75
+42;Average Grade 1;BCP;heuristic-based waypoints 64 (TUD);59712;433;199
+42;Average Grade 1;BCP;heuristic-based waypoints 64 (TUD);56072;412;100
+42;Average Grade 1;BCP;heuristic-based waypoints 64 (TUD);54352;407;80
+42;Average Grade 1;BCP;heuristic-based waypoints 64 (TUD);51982;419;156
+42;Average Grade 1;CBS;(TUD);48027;377;90
+42;Average Grade 1;CBS;(TUD);48091;386;193
+42;Average Grade 1;CBS;(TUD);47777;340;99
+42;Average Grade 1;CBS;(TUD);47887;416;92
+42;Average Grade 1;CBS;(TUD);47797;418;107
+42;Average Grade 1;CBS;(TUD);47867;411;157
+42;Average Grade 1;CBS;(TUD);47907;421;91
+42;Average Grade 1;CBS;(TUD);47707;437;133
+42;Average Grade 1;CBS;(TUD);47637;473;93
+42;Average Grade 1;CBS;(TUD);47617;371;189
+42;Average Grade 1;CBS;(TUD);47597;380;135
+42;Average Grade 1;CBS;(TUD_voor_timons_vergelijking);201402;445;105
+42;Average Grade 1;CBS;(TUD_voor_timons_vergelijking);201462;449;117
+42;Average Grade 1;CBS;(TUD_voor_timons_vergelijking);201442;419;117
+42;Average Grade 1;CBS;(TUD_voor_timons_vergelijking);201282;376;206
+42;Average Grade 1;CBS;(TUD_voor_timons_vergelijking);201302;429;113
+42;Average Grade 1;CBS;(TUD_voor_timons_vergelijking);201322;406;103
+42;Average Grade 1;CBS;(TUD_voor_timons_vergelijking);201342;409;87
+42;Average Grade 1;CBS;(TUD_voor_timons_vergelijking);201362;372;108
+42;Average Grade 1;CBS;(TUD_voor_timons_vergelijking);201382;389;190
+42;Average Grade 1;CBS;(TUD_voor_timons_vergelijking);201422;380;88
+42;Average Grade 1;M*;Python (TU);179069;;20342
+42;Average Grade 1;M*;Python (TU);179309;364;381
+42;Average Grade 1;M*;Python (TU);179289;440;744
+42;Average Grade 1;M*;Python (TU);179269;340;58
+42;Average Grade 1;M*;Python (TU);179249;424;244
+42;Average Grade 1;M*;Python (TU);179229;;20327
+42;Average Grade 1;M*;Python (TU);179209;432;61
+42;Average Grade 1;M*;Python (TU);179139;418;1229
+42;Average Grade 1;M*;Python (TU);178949;442;15622
+42;Average Grade 1;M*;Python (TU);178829;;20334
+42;Average Grade 1;M* Inflated;Python (TU);179479;413;60
+42;Average Grade 1;M* Inflated;Python (TU);179459;435;71
+42;Average Grade 1;M* Inflated;Python (TU);179439;431;57
+42;Average Grade 1;M* Inflated;Python (TU);179419;391;69
+42;Average Grade 1;M* Inflated;Python (TU);179399;402;63
+42;Average Grade 1;M* Inflated;Python (TU);179379;394;60
+42;Average Grade 1;M* Inflated;Python (TU);179559;345;64
+42;Average Grade 1;M* Inflated;Python (TU);179539;406;60
+42;Average Grade 1;M* Inflated;Python (TU);179519;471;58
+42;Average Grade 1;M* Inflated;Python (TU);179499;395;65
+42;Average Grade 1;Unordered MLA* v2;linear, resting, dist (TU);213891;450;36
+42;Average Grade 1;Unordered MLA* v2;linear, resting, dist (TU);213889;393;33
+42;Average Grade 1;Unordered MLA* v2;linear, resting, dist (TU);213886;484;32
+42;Average Grade 1;Unordered MLA* v2;linear, resting, dist (TU);213893;470;39
+42;Average Grade 1;Unordered MLA* v2;linear, resting, dist (TU);213887;475;42
+42;Average Grade 1;Unordered MLA* v2;linear, resting, dist (TU);213888;510;34
+42;Average Grade 1;Unordered MLA* v2;linear, resting, dist (TU);213895;408;27
+42;Average Grade 1;Unordered MLA* v2;linear, resting, dist (TU);213894;430;36
+42;Average Grade 1;Unordered MLA* v2;linear, resting, dist (TU);213890;482;32
+42;Average Grade 1;Unordered MLA* v2;linear, resting, dist (TU);213892;442;33
+43;Average Grade 2;A*+OD+ID;correct TSP cache (TU);60510;404;306
+43;Average Grade 2;A*+OD+ID;correct TSP cache (TU);60463;455;316
+43;Average Grade 2;A*+OD+ID;correct TSP cache (TU);60653;384;329
+43;Average Grade 2;A*+OD+ID;correct TSP cache (TU);60457;426;335
+43;Average Grade 2;A*+OD+ID;correct TSP cache (TU);60547;391;327
+43;Average Grade 2;A*+OD+ID;correct TSP cache (TU);60566;445;346
+43;Average Grade 2;A*+OD+ID;correct TSP cache (TU);60594;434;528
+43;Average Grade 2;A*+OD+ID;correct TSP cache (TU);60604;416;325
+43;Average Grade 2;A*+OD+ID;correct TSP cache (TU);60635;464;390
+43;Average Grade 2;A*+OD+ID;correct TSP cache (TU);60503;379;718
+43;Average Grade 2;BCP;heuristic-based waypoints 64 (TUD);60977;375;85
+43;Average Grade 2;BCP;heuristic-based waypoints 64 (TUD);60685;384;138
+43;Average Grade 2;BCP;heuristic-based waypoints 64 (TUD);51983;460;241
+43;Average Grade 2;BCP;heuristic-based waypoints 64 (TUD);57893;426;468
+43;Average Grade 2;BCP;heuristic-based waypoints 64 (TUD);54353;440;163
+43;Average Grade 2;BCP;heuristic-based waypoints 64 (TUD);56073;418;109
+43;Average Grade 2;BCP;heuristic-based waypoints 64 (TUD);60522;370;66
+43;Average Grade 2;BCP;heuristic-based waypoints 64 (TUD);60191;416;92
+43;Average Grade 2;BCP;heuristic-based waypoints 64 (TUD);59713;445;139
+43;Average Grade 2;BCP;heuristic-based waypoints 64 (TUD);60665;398;67
+43;Average Grade 2;CBS;(TUD);47618;447;118
+43;Average Grade 2;CBS;(TUD);47888;396;86
+43;Average Grade 2;CBS;(TUD);47868;371;109
+43;Average Grade 2;CBS;(TUD);47798;458;116
+43;Average Grade 2;CBS;(TUD);47778;424;98
+43;Average Grade 2;CBS;(TUD);47708;369;97
+43;Average Grade 2;CBS;(TUD);47638;423;100
+43;Average Grade 2;CBS;(TUD);47598;398;96
+43;Average Grade 2;CBS;(TUD);48092;435;88
+43;Average Grade 2;CBS;(TUD);48028;478;137
+43;Average Grade 2;CBS;(TUD);47908;453;147
+43;Average Grade 2;CBS;(TUD_voor_timons_vergelijking);201463;414;160
+43;Average Grade 2;CBS;(TUD_voor_timons_vergelijking);201283;464;442
+43;Average Grade 2;CBS;(TUD_voor_timons_vergelijking);201303;379;81
+43;Average Grade 2;CBS;(TUD_voor_timons_vergelijking);201323;438;96
+43;Average Grade 2;CBS;(TUD_voor_timons_vergelijking);201343;413;166
+43;Average Grade 2;CBS;(TUD_voor_timons_vergelijking);201363;404;82
+43;Average Grade 2;CBS;(TUD_voor_timons_vergelijking);201383;463;97
+43;Average Grade 2;CBS;(TUD_voor_timons_vergelijking);201403;409;93
+43;Average Grade 2;CBS;(TUD_voor_timons_vergelijking);201423;427;97
+43;Average Grade 2;CBS;(TUD_voor_timons_vergelijking);201443;385;102
+43;Average Grade 2;M*;Python (TU);179070;;20421
+43;Average Grade 2;M*;Python (TU);179250;435;54
+43;Average Grade 2;M*;Python (TU);179270;427;59
+43;Average Grade 2;M*;Python (TU);179290;422;56
+43;Average Grade 2;M*;Python (TU);179310;457;57
+43;Average Grade 2;M*;Python (TU);179140;433;2971
+43;Average Grade 2;M*;Python (TU);179210;386;68
+43;Average Grade 2;M*;Python (TU);179230;426;57
+43;Average Grade 2;M*;Python (TU);178830;427;57
+43;Average Grade 2;M*;Python (TU);178950;472;1889
+43;Average Grade 2;M* Inflated;Python (TU);179420;440;56
+43;Average Grade 2;M* Inflated;Python (TU);179560;374;58
+43;Average Grade 2;M* Inflated;Python (TU);179540;426;54
+43;Average Grade 2;M* Inflated;Python (TU);179520;446;55
+43;Average Grade 2;M* Inflated;Python (TU);179500;472;62
+43;Average Grade 2;M* Inflated;Python (TU);179480;333;57
+43;Average Grade 2;M* Inflated;Python (TU);179460;478;54
+43;Average Grade 2;M* Inflated;Python (TU);179440;441;58
+43;Average Grade 2;M* Inflated;Python (TU);179400;418;54
+43;Average Grade 2;M* Inflated;Python (TU);179380;425;56
+43;Average Grade 2;Unordered MLA* v2;linear, resting, dist (TU);213904;482;23
+43;Average Grade 2;Unordered MLA* v2;linear, resting, dist (TU);213900;527;35
+43;Average Grade 2;Unordered MLA* v2;linear, resting, dist (TU);213899;480;33
+43;Average Grade 2;Unordered MLA* v2;linear, resting, dist (TU);213898;489;33
+43;Average Grade 2;Unordered MLA* v2;linear, resting, dist (TU);213897;435;28
+43;Average Grade 2;Unordered MLA* v2;linear, resting, dist (TU);213896;431;25
+43;Average Grade 2;Unordered MLA* v2;linear, resting, dist (TU);213901;463;27
+43;Average Grade 2;Unordered MLA* v2;linear, resting, dist (TU);213902;463;27
+43;Average Grade 2;Unordered MLA* v2;linear, resting, dist (TU);213905;505;32
+43;Average Grade 2;Unordered MLA* v2;linear, resting, dist (TU);213903;450;30
+44;Average Grade 3;A*+OD+ID;correct TSP cache (TU);60636;479;317
+44;Average Grade 3;A*+OD+ID;correct TSP cache (TU);60595;548;433
+44;Average Grade 3;A*+OD+ID;correct TSP cache (TU);60567;;511
+44;Average Grade 3;A*+OD+ID;correct TSP cache (TU);60548;503;6828
+44;Average Grade 3;A*+OD+ID;correct TSP cache (TU);60511;439;568
+44;Average Grade 3;A*+OD+ID;correct TSP cache (TU);60504;491;460
+44;Average Grade 3;A*+OD+ID;correct TSP cache (TU);60464;426;237
+44;Average Grade 3;A*+OD+ID;correct TSP cache (TU);60458;456;247
+44;Average Grade 3;A*+OD+ID;correct TSP cache (TU);60654;509;983
+44;Average Grade 3;A*+OD+ID;correct TSP cache (TU);60605;467;318
+44;Average Grade 3;BCP;heuristic-based waypoints 64 (TUD);60666;539;486
+44;Average Grade 3;BCP;heuristic-based waypoints 64 (TUD);60978;518;704
+44;Average Grade 3;BCP;heuristic-based waypoints 64 (TUD);60686;429;109
+44;Average Grade 3;BCP;heuristic-based waypoints 64 (TUD);60523;453;249
+44;Average Grade 3;BCP;heuristic-based waypoints 64 (TUD);60192;484;102
+44;Average Grade 3;BCP;heuristic-based waypoints 64 (TUD);59714;415;181
+44;Average Grade 3;BCP;heuristic-based waypoints 64 (TUD);57894;497;594
+44;Average Grade 3;BCP;heuristic-based waypoints 64 (TUD);56074;460;112
+44;Average Grade 3;BCP;heuristic-based waypoints 64 (TUD);54354;425;158
+44;Average Grade 3;BCP;heuristic-based waypoints 64 (TUD);51984;435;94
+44;Average Grade 3;CBS;(TUD);47599;;1033
+44;Average Grade 3;CBS;(TUD);48093;467;116
+44;Average Grade 3;CBS;(TUD);48029;484;147
+44;Average Grade 3;CBS;(TUD);47909;500;236
+44;Average Grade 3;CBS;(TUD);47889;485;179
+44;Average Grade 3;CBS;(TUD);47869;430;870
+44;Average Grade 3;CBS;(TUD);47799;513;123
+44;Average Grade 3;CBS;(TUD);47779;530;197
+44;Average Grade 3;CBS;(TUD);47709;498;112
+44;Average Grade 3;CBS;(TUD);47639;468;119
+44;Average Grade 3;CBS;(TUD);47619;479;100
+44;Average Grade 3;CBS;(TUD_voor_timons_vergelijking);201284;493;175
+44;Average Grade 3;CBS;(TUD_voor_timons_vergelijking);201464;405;109
+44;Average Grade 3;CBS;(TUD_voor_timons_vergelijking);201444;476;122
+44;Average Grade 3;CBS;(TUD_voor_timons_vergelijking);201424;491;298
+44;Average Grade 3;CBS;(TUD_voor_timons_vergelijking);201404;481;1233
+44;Average Grade 3;CBS;(TUD_voor_timons_vergelijking);201384;427;96
+44;Average Grade 3;CBS;(TUD_voor_timons_vergelijking);201364;511;139
+44;Average Grade 3;CBS;(TUD_voor_timons_vergelijking);201344;457;103
+44;Average Grade 3;CBS;(TUD_voor_timons_vergelijking);201324;397;283
+44;Average Grade 3;CBS;(TUD_voor_timons_vergelijking);201304;410;144
+44;Average Grade 3;M*;Python (TU);179311;416;514
+44;Average Grade 3;M*;Python (TU);179291;493;186
+44;Average Grade 3;M*;Python (TU);179271;456;5745
+44;Average Grade 3;M*;Python (TU);179251;391;92
+44;Average Grade 3;M*;Python (TU);179231;404;6391
+44;Average Grade 3;M*;Python (TU);179211;443;185
+44;Average Grade 3;M*;Python (TU);179141;;20254
+44;Average Grade 3;M*;Python (TU);179071;450;3116
+44;Average Grade 3;M*;Python (TU);178951;413;687
+44;Average Grade 3;M*;Python (TU);178831;483;988
+44;Average Grade 3;M* Inflated;Python (TU);179481;437;55
+44;Average Grade 3;M* Inflated;Python (TU);179381;482;52
+44;Average Grade 3;M* Inflated;Python (TU);179401;493;67
+44;Average Grade 3;M* Inflated;Python (TU);179421;520;283
+44;Average Grade 3;M* Inflated;Python (TU);179441;414;46
+44;Average Grade 3;M* Inflated;Python (TU);179461;515;60
+44;Average Grade 3;M* Inflated;Python (TU);179501;468;48
+44;Average Grade 3;M* Inflated;Python (TU);179521;540;178
+44;Average Grade 3;M* Inflated;Python (TU);179541;453;49
+44;Average Grade 3;M* Inflated;Python (TU);179561;416;49
+44;Average Grade 3;Unordered MLA* v2;linear, resting, dist (TU);213906;504;19
+44;Average Grade 3;Unordered MLA* v2;linear, resting, dist (TU);213909;592;35
+44;Average Grade 3;Unordered MLA* v2;linear, resting, dist (TU);213910;544;27
+44;Average Grade 3;Unordered MLA* v2;linear, resting, dist (TU);213915;560;31
+44;Average Grade 3;Unordered MLA* v2;linear, resting, dist (TU);213914;605;37
+44;Average Grade 3;Unordered MLA* v2;linear, resting, dist (TU);213911;559;34
+44;Average Grade 3;Unordered MLA* v2;linear, resting, dist (TU);213912;492;22
+44;Average Grade 3;Unordered MLA* v2;linear, resting, dist (TU);213913;491;23
+44;Average Grade 3;Unordered MLA* v2;linear, resting, dist (TU);213907;505;23
+44;Average Grade 3;Unordered MLA* v2;linear, resting, dist (TU);213908;580;26
+45;Average Grade 4;A*+OD+ID;correct TSP cache (TU);60549;;123204
+45;Average Grade 4;A*+OD+ID;correct TSP cache (TU);60459;711;88298
+45;Average Grade 4;A*+OD+ID;correct TSP cache (TU);60465;797;26597
+45;Average Grade 4;A*+OD+ID;correct TSP cache (TU);60505;;122919
+45;Average Grade 4;A*+OD+ID;correct TSP cache (TU);60512;;123114
+45;Average Grade 4;A*+OD+ID;correct TSP cache (TU);60655;;122661
+45;Average Grade 4;A*+OD+ID;correct TSP cache (TU);60637;;126560
+45;Average Grade 4;A*+OD+ID;correct TSP cache (TU);60606;826;5868
+45;Average Grade 4;A*+OD+ID;correct TSP cache (TU);60596;;122404
+45;Average Grade 4;A*+OD+ID;correct TSP cache (TU);60568;;173
+45;Average Grade 4;BCP;heuristic-based waypoints 64 (TUD);51985;859;1440
+45;Average Grade 4;BCP;heuristic-based waypoints 64 (TUD);60979;806;264058
+45;Average Grade 4;BCP;heuristic-based waypoints 64 (TUD);60687;837;119753
+45;Average Grade 4;BCP;heuristic-based waypoints 64 (TUD);60667;816;600009
+45;Average Grade 4;BCP;heuristic-based waypoints 64 (TUD);60524;833;600029
+45;Average Grade 4;BCP;heuristic-based waypoints 64 (TUD);60423;877;81487
+45;Average Grade 4;BCP;heuristic-based waypoints 64 (TUD);59715;883;23447
+45;Average Grade 4;BCP;heuristic-based waypoints 64 (TUD);57895;827;600012
+45;Average Grade 4;BCP;heuristic-based waypoints 64 (TUD);56075;699;14469
+45;Average Grade 4;BCP;heuristic-based waypoints 64 (TUD);54355;787;17066
+45;Average Grade 4;CBS;(TUD);47620;;3031
+45;Average Grade 4;CBS;(TUD);48030;;
+45;Average Grade 4;CBS;(TUD);48094;;3026
+45;Average Grade 4;CBS;(TUD);47910;;3029
+45;Average Grade 4;CBS;(TUD);47890;;3032
+45;Average Grade 4;CBS;(TUD);47870;;3032
+45;Average Grade 4;CBS;(TUD);47800;;3026
+45;Average Grade 4;CBS;(TUD);47780;;3030
+45;Average Grade 4;CBS;(TUD);47710;;3034
+45;Average Grade 4;CBS;(TUD);47640;;3028
+45;Average Grade 4;CBS;(TUD);47600;;1029
+45;Average Grade 4;CBS;(TUD_voor_timons_vergelijking);201305;;20066
+45;Average Grade 4;CBS;(TUD_voor_timons_vergelijking);201465;;20049
+45;Average Grade 4;CBS;(TUD_voor_timons_vergelijking);201445;;20057
+45;Average Grade 4;CBS;(TUD_voor_timons_vergelijking);201425;793;13190
+45;Average Grade 4;CBS;(TUD_voor_timons_vergelijking);201405;;20083
+45;Average Grade 4;CBS;(TUD_voor_timons_vergelijking);201285;760;386
+45;Average Grade 4;CBS;(TUD_voor_timons_vergelijking);201385;;20053
+45;Average Grade 4;CBS;(TUD_voor_timons_vergelijking);201365;;20054
+45;Average Grade 4;CBS;(TUD_voor_timons_vergelijking);201345;;20080
+45;Average Grade 4;CBS;(TUD_voor_timons_vergelijking);201325;;20060
+45;Average Grade 4;M*;Python (TU);179272;;20239
+45;Average Grade 4;M*;Python (TU);179312;;20168
+45;Average Grade 4;M*;Python (TU);178832;;20200
+45;Average Grade 4;M*;Python (TU);178952;;20417
+45;Average Grade 4;M*;Python (TU);179072;;20236
+45;Average Grade 4;M*;Python (TU);179142;;20249
+45;Average Grade 4;M*;Python (TU);179212;;20300
+45;Average Grade 4;M*;Python (TU);179232;;20165
+45;Average Grade 4;M*;Python (TU);179252;;20288
+45;Average Grade 4;M*;Python (TU);179292;;20252
+45;Average Grade 4;M* Inflated;Python (TU);179382;845;61
+45;Average Grade 4;M* Inflated;Python (TU);179562;;20218
+45;Average Grade 4;M* Inflated;Python (TU);179542;772;32
+45;Average Grade 4;M* Inflated;Python (TU);179522;674;416
+45;Average Grade 4;M* Inflated;Python (TU);179502;908;44
+45;Average Grade 4;M* Inflated;Python (TU);179482;727;3725
+45;Average Grade 4;M* Inflated;Python (TU);179462;774;598
+45;Average Grade 4;M* Inflated;Python (TU);179442;836;125
+45;Average Grade 4;M* Inflated;Python (TU);179422;;20237
+45;Average Grade 4;M* Inflated;Python (TU);179402;686;3471
+45;Average Grade 4;Unordered MLA* v2;linear, resting, dist (TU);213922;;
+45;Average Grade 4;Unordered MLA* v2;linear, resting, dist (TU);213921;;
+45;Average Grade 4;Unordered MLA* v2;linear, resting, dist (TU);213920;;
+45;Average Grade 4;Unordered MLA* v2;linear, resting, dist (TU);213916;;
+45;Average Grade 4;Unordered MLA* v2;linear, resting, dist (TU);213919;;
+45;Average Grade 4;Unordered MLA* v2;linear, resting, dist (TU);213918;;
+45;Average Grade 4;Unordered MLA* v2;linear, resting, dist (TU);213917;;
+46;Average Grade 5;A*+OD+ID;correct TSP cache (TU);60656;;124535
+46;Average Grade 5;A*+OD+ID;correct TSP cache (TU);60461;;120478
+46;Average Grade 5;A*+OD+ID;correct TSP cache (TU);60466;;122080
+46;Average Grade 5;A*+OD+ID;correct TSP cache (TU);60508;;122979
+46;Average Grade 5;A*+OD+ID;correct TSP cache (TU);60519;;124421
+46;Average Grade 5;A*+OD+ID;correct TSP cache (TU);60551;;122094
+46;Average Grade 5;A*+OD+ID;correct TSP cache (TU);60569;;122734
+46;Average Grade 5;A*+OD+ID;correct TSP cache (TU);60598;;122481
+46;Average Grade 5;A*+OD+ID;correct TSP cache (TU);60607;;120310
+46;Average Grade 5;A*+OD+ID;correct TSP cache (TU);60640;;120864
+46;Average Grade 5;BCP;heuristic-based waypoints 64 (TUD);56076;;607048
+46;Average Grade 5;BCP;heuristic-based waypoints 64 (TUD);54356;1193;600019
+46;Average Grade 5;BCP;heuristic-based waypoints 64 (TUD);60688;;601276
+46;Average Grade 5;BCP;heuristic-based waypoints 64 (TUD);60542;987;600020
+46;Average Grade 5;BCP;heuristic-based waypoints 64 (TUD);51986;;600750
+46;Average Grade 5;BCP;heuristic-based waypoints 64 (TUD);60980;824;600009
+46;Average Grade 5;BCP;heuristic-based waypoints 64 (TUD);60425;;603035
+46;Average Grade 5;BCP;heuristic-based waypoints 64 (TUD);59716;1267;600111
+46;Average Grade 5;BCP;heuristic-based waypoints 64 (TUD);58296;;602697
+46;Average Grade 5;BCP;heuristic-based waypoints 64 (TUD);60668;;607542
+46;Average Grade 5;CBS;(TUD);47711;;3028
+46;Average Grade 5;CBS;(TUD);48095;;3038
+46;Average Grade 5;CBS;(TUD);47911;;3036
+46;Average Grade 5;CBS;(TUD);47891;;3036
+46;Average Grade 5;CBS;(TUD);47871;;3027
+46;Average Grade 5;CBS;(TUD);47801;;3029
+46;Average Grade 5;CBS;(TUD);47781;;3028
+46;Average Grade 5;CBS;(TUD);47641;;3030
+46;Average Grade 5;CBS;(TUD);47621;;3026
+46;Average Grade 5;CBS;(TUD);47601;;1029
+46;Average Grade 5;CBS;(TUD_voor_timons_vergelijking);201306;;20091
+46;Average Grade 5;CBS;(TUD_voor_timons_vergelijking);201326;;20058
+46;Average Grade 5;CBS;(TUD_voor_timons_vergelijking);201286;;20070
+46;Average Grade 5;CBS;(TUD_voor_timons_vergelijking);201346;;20065
+46;Average Grade 5;CBS;(TUD_voor_timons_vergelijking);201366;;20072
+46;Average Grade 5;CBS;(TUD_voor_timons_vergelijking);201386;;20081
+46;Average Grade 5;CBS;(TUD_voor_timons_vergelijking);201406;;20073
+46;Average Grade 5;CBS;(TUD_voor_timons_vergelijking);201426;;20064
+46;Average Grade 5;CBS;(TUD_voor_timons_vergelijking);201446;;20050
+46;Average Grade 5;CBS;(TUD_voor_timons_vergelijking);201466;;20073
+46;Average Grade 5;M*;Python (TU);178833;;20142
+46;Average Grade 5;M*;Python (TU);179313;;20188
+46;Average Grade 5;M*;Python (TU);178953;;20194
+46;Average Grade 5;M*;Python (TU);179073;;20179
+46;Average Grade 5;M*;Python (TU);179143;;20140
+46;Average Grade 5;M*;Python (TU);179213;;20188
+46;Average Grade 5;M*;Python (TU);179233;;20187
+46;Average Grade 5;M*;Python (TU);179253;;20312
+46;Average Grade 5;M*;Python (TU);179273;;20193
+46;Average Grade 5;M*;Python (TU);179293;;20158
+46;Average Grade 5;M* Inflated;Python (TU);179503;948;141
+46;Average Grade 5;M* Inflated;Python (TU);179483;;20168
+46;Average Grade 5;M* Inflated;Python (TU);179383;;20329
+46;Average Grade 5;M* Inflated;Python (TU);179563;;20200
+46;Average Grade 5;M* Inflated;Python (TU);179403;;20242
+46;Average Grade 5;M* Inflated;Python (TU);179423;;20242
+46;Average Grade 5;M* Inflated;Python (TU);179463;;20166
+46;Average Grade 5;M* Inflated;Python (TU);179443;;20266
+46;Average Grade 5;M* Inflated;Python (TU);179543;;20149
+46;Average Grade 5;M* Inflated;Python (TU);179523;878;18297
+46;Average Grade 5;Unordered MLA* v2;linear, resting, dist (TU);213925;;
+46;Average Grade 5;Unordered MLA* v2;linear, resting, dist (TU);213926;;
+46;Average Grade 5;Unordered MLA* v2;linear, resting, dist (TU);213927;;
+46;Average Grade 5;Unordered MLA* v2;linear, resting, dist (TU);213928;;
+46;Average Grade 5;Unordered MLA* v2;linear, resting, dist (TU);213929;;
+46;Average Grade 5;Unordered MLA* v2;linear, resting, dist (TU);213930;;
+46;Average Grade 5;Unordered MLA* v2;linear, resting, dist (TU);213931;;
+46;Average Grade 5;Unordered MLA* v2;linear, resting, dist (TU);213932;;
+46;Average Grade 5;Unordered MLA* v2;linear, resting, dist (TU);213933;;
+46;Average Grade 5;Unordered MLA* v2;linear, resting, dist (TU);213934;;
+46;Average Grade 5;Unordered MLA* v2;linear, resting, dist (TU);213923;;
+46;Average Grade 5;Unordered MLA* v2;linear, resting, dist (TU);213924;;
+47;Overlapping Waypoints 1;A*+OD+ID;correct TSP cache (TU);60658;287;176
+47;Overlapping Waypoints 1;A*+OD+ID;correct TSP cache (TU);60642;245;26153
+47;Overlapping Waypoints 1;A*+OD+ID;correct TSP cache (TU);60612;221;531
+47;Overlapping Waypoints 1;A*+OD+ID;correct TSP cache (TU);60467;265;390
+47;Overlapping Waypoints 1;A*+OD+ID;correct TSP cache (TU);60600;254;178
+47;Overlapping Waypoints 1;A*+OD+ID;correct TSP cache (TU);60571;314;343
+47;Overlapping Waypoints 1;A*+OD+ID;correct TSP cache (TU);60553;240;1380
+47;Overlapping Waypoints 1;A*+OD+ID;correct TSP cache (TU);60525;402;204
+47;Overlapping Waypoints 1;A*+OD+ID;correct TSP cache (TU);60513;276;209
+47;Overlapping Waypoints 1;A*+OD+ID;correct TSP cache (TU);60478;276;734
+47;Overlapping Waypoints 1;BCP;heuristic-based waypoints 64 (TUD);52387;293;36
+47;Overlapping Waypoints 1;BCP;heuristic-based waypoints 64 (TUD);58597;349;14
+47;Overlapping Waypoints 1;BCP;heuristic-based waypoints 64 (TUD);60017;261;9
+47;Overlapping Waypoints 1;BCP;heuristic-based waypoints 64 (TUD);60441;283;10
+47;Overlapping Waypoints 1;BCP;heuristic-based waypoints 64 (TUD);60559;293;7
+47;Overlapping Waypoints 1;BCP;heuristic-based waypoints 64 (TUD);60669;232;13
+47;Overlapping Waypoints 1;BCP;heuristic-based waypoints 64 (TUD);60689;203;22
+47;Overlapping Waypoints 1;BCP;heuristic-based waypoints 64 (TUD);60981;251;11
+47;Overlapping Waypoints 1;BCP;heuristic-based waypoints 64 (TUD);56427;256;15
+47;Overlapping Waypoints 1;BCP;heuristic-based waypoints 64 (TUD);54757;305;8
+47;Overlapping Waypoints 1;CBS;(TUD);47602;306;72
+47;Overlapping Waypoints 1;CBS;(TUD);47712;252;70
+47;Overlapping Waypoints 1;CBS;(TUD);47642;281;192
+47;Overlapping Waypoints 1;CBS;(TUD);47622;225;62
+47;Overlapping Waypoints 1;CBS;(TUD);48096;290;83
+47;Overlapping Waypoints 1;CBS;(TUD);47872;339;187
+47;Overlapping Waypoints 1;CBS;(TUD);47892;;3031
+47;Overlapping Waypoints 1;CBS;(TUD);47912;314;72
+47;Overlapping Waypoints 1;CBS;(TUD);47802;282;306
+47;Overlapping Waypoints 1;CBS;(TUD);47782;306;138
+47;Overlapping Waypoints 1;CBS;(TUD_voor_timons_vergelijking);201407;356;84
+47;Overlapping Waypoints 1;CBS;(TUD_voor_timons_vergelijking);201427;303;76
+47;Overlapping Waypoints 1;CBS;(TUD_voor_timons_vergelijking);201447;325;127
+47;Overlapping Waypoints 1;CBS;(TUD_voor_timons_vergelijking);201467;308;286
+47;Overlapping Waypoints 1;CBS;(TUD_voor_timons_vergelijking);201287;382;344
+47;Overlapping Waypoints 1;CBS;(TUD_voor_timons_vergelijking);201307;171;5063
+47;Overlapping Waypoints 1;CBS;(TUD_voor_timons_vergelijking);201327;274;88
+47;Overlapping Waypoints 1;CBS;(TUD_voor_timons_vergelijking);201347;262;93
+47;Overlapping Waypoints 1;CBS;(TUD_voor_timons_vergelijking);201367;181;58
+47;Overlapping Waypoints 1;CBS;(TUD_voor_timons_vergelijking);201387;368;113
+47;Overlapping Waypoints 1;M*;Python (TU);179194;;20413
+47;Overlapping Waypoints 1;M*;Python (TU);179074;;20305
+47;Overlapping Waypoints 1;M*;Python (TU);178954;;20265
+47;Overlapping Waypoints 1;M*;Python (TU);178834;;20226
+47;Overlapping Waypoints 1;M*;Python (TU);179254;362;7910
+47;Overlapping Waypoints 1;M*;Python (TU);179274;;20392
+47;Overlapping Waypoints 1;M*;Python (TU);179294;;20371
+47;Overlapping Waypoints 1;M*;Python (TU);179314;288;45
+47;Overlapping Waypoints 1;M*;Python (TU);179234;;20336
+47;Overlapping Waypoints 1;M*;Python (TU);179214;;20382
+47;Overlapping Waypoints 1;M* Inflated;Python (TU);179404;209;30
+47;Overlapping Waypoints 1;M* Inflated;Python (TU);179564;325;29
+47;Overlapping Waypoints 1;M* Inflated;Python (TU);179544;145;67
+47;Overlapping Waypoints 1;M* Inflated;Python (TU);179524;392;39
+47;Overlapping Waypoints 1;M* Inflated;Python (TU);179504;274;134
+47;Overlapping Waypoints 1;M* Inflated;Python (TU);179484;290;57
+47;Overlapping Waypoints 1;M* Inflated;Python (TU);179464;372;56
+47;Overlapping Waypoints 1;M* Inflated;Python (TU);179444;330;30
+47;Overlapping Waypoints 1;M* Inflated;Python (TU);179424;293;141
+47;Overlapping Waypoints 1;M* Inflated;Python (TU);179384;182;70
+47;Overlapping Waypoints 1;Unordered MLA* v2;linear, resting, dist (TU);213949;418;46
+47;Overlapping Waypoints 1;Unordered MLA* v2;linear, resting, dist (TU);213947;288;32
+47;Overlapping Waypoints 1;Unordered MLA* v2;linear, resting, dist (TU);213945;301;34
+47;Overlapping Waypoints 1;Unordered MLA* v2;linear, resting, dist (TU);213943;372;41
+47;Overlapping Waypoints 1;Unordered MLA* v2;linear, resting, dist (TU);213941;337;36
+47;Overlapping Waypoints 1;Unordered MLA* v2;linear, resting, dist (TU);213939;373;26
+47;Overlapping Waypoints 1;Unordered MLA* v2;linear, resting, dist (TU);213937;391;34
+47;Overlapping Waypoints 1;Unordered MLA* v2;linear, resting, dist (TU);213935;321;20
+47;Overlapping Waypoints 1;Unordered MLA* v2;linear, resting, dist (TU);213953;343;55
+47;Overlapping Waypoints 1;Unordered MLA* v2;linear, resting, dist (TU);213951;227;40
+48;Overlapping Waypoints 2;A*+OD+ID;correct TSP cache (TU);60526;316;23283
+48;Overlapping Waypoints 2;A*+OD+ID;correct TSP cache (TU);60468;301;461
+48;Overlapping Waypoints 2;A*+OD+ID;correct TSP cache (TU);60572;410;596
+48;Overlapping Waypoints 2;A*+OD+ID;correct TSP cache (TU);60601;410;9250
+48;Overlapping Waypoints 2;A*+OD+ID;correct TSP cache (TU);60613;343;7020
+48;Overlapping Waypoints 2;A*+OD+ID;correct TSP cache (TU);60643;368;592
+48;Overlapping Waypoints 2;A*+OD+ID;correct TSP cache (TU);60659;498;76966
+48;Overlapping Waypoints 2;A*+OD+ID;correct TSP cache (TU);60479;450;12071
+48;Overlapping Waypoints 2;A*+OD+ID;correct TSP cache (TU);60514;341;976
+48;Overlapping Waypoints 2;A*+OD+ID;correct TSP cache (TU);60554;301;262
+48;Overlapping Waypoints 2;BCP;heuristic-based waypoints 64 (TUD);52388;379;30
+48;Overlapping Waypoints 2;BCP;heuristic-based waypoints 64 (TUD);60442;358;21
+48;Overlapping Waypoints 2;BCP;heuristic-based waypoints 64 (TUD);60018;372;24
+48;Overlapping Waypoints 2;BCP;heuristic-based waypoints 64 (TUD);58598;393;36
+48;Overlapping Waypoints 2;BCP;heuristic-based waypoints 64 (TUD);56428;290;41
+48;Overlapping Waypoints 2;BCP;heuristic-based waypoints 64 (TUD);54758;423;620
+48;Overlapping Waypoints 2;BCP;heuristic-based waypoints 64 (TUD);60560;324;93
+48;Overlapping Waypoints 2;BCP;heuristic-based waypoints 64 (TUD);60670;413;92
+48;Overlapping Waypoints 2;BCP;heuristic-based waypoints 64 (TUD);60690;370;54
+48;Overlapping Waypoints 2;BCP;heuristic-based waypoints 64 (TUD);60982;365;12
+48;Overlapping Waypoints 2;CBS;(TUD);48097;465;147
+48;Overlapping Waypoints 2;CBS;(TUD);47913;405;168
+48;Overlapping Waypoints 2;CBS;(TUD);47893;476;2415
+48;Overlapping Waypoints 2;CBS;(TUD);47873;370;758
+48;Overlapping Waypoints 2;CBS;(TUD);47803;346;452
+48;Overlapping Waypoints 2;CBS;(TUD);47603;;1028
+48;Overlapping Waypoints 2;CBS;(TUD);47783;384;197
+48;Overlapping Waypoints 2;CBS;(TUD);47713;321;318
+48;Overlapping Waypoints 2;CBS;(TUD);47643;440;278
+48;Overlapping Waypoints 2;CBS;(TUD);47623;468;785
+48;Overlapping Waypoints 2;CBS;(TUD_voor_timons_vergelijking);201388;401;224
+48;Overlapping Waypoints 2;CBS;(TUD_voor_timons_vergelijking);201288;445;810
+48;Overlapping Waypoints 2;CBS;(TUD_voor_timons_vergelijking);201308;360;159
+48;Overlapping Waypoints 2;CBS;(TUD_voor_timons_vergelijking);201328;328;439
+48;Overlapping Waypoints 2;CBS;(TUD_voor_timons_vergelijking);201348;351;121
+48;Overlapping Waypoints 2;CBS;(TUD_voor_timons_vergelijking);201368;397;107
+48;Overlapping Waypoints 2;CBS;(TUD_voor_timons_vergelijking);201408;427;97
+48;Overlapping Waypoints 2;CBS;(TUD_voor_timons_vergelijking);201428;390;13658
+48;Overlapping Waypoints 2;CBS;(TUD_voor_timons_vergelijking);201448;407;325
+48;Overlapping Waypoints 2;CBS;(TUD_voor_timons_vergelijking);201468;382;168
+48;Overlapping Waypoints 2;M*;Python (TU);178885;;20411
+48;Overlapping Waypoints 2;M*;Python (TU);179315;;20340
+48;Overlapping Waypoints 2;M*;Python (TU);179295;;20383
+48;Overlapping Waypoints 2;M*;Python (TU);179275;;20353
+48;Overlapping Waypoints 2;M*;Python (TU);179255;;20317
+48;Overlapping Waypoints 2;M*;Python (TU);179235;;20309
+48;Overlapping Waypoints 2;M*;Python (TU);179215;;20456
+48;Overlapping Waypoints 2;M*;Python (TU);179195;;20311
+48;Overlapping Waypoints 2;M*;Python (TU);179075;;20299
+48;Overlapping Waypoints 2;M*;Python (TU);178955;;20230
+48;Overlapping Waypoints 2;M* Inflated;Python (TU);179445;399;59
+48;Overlapping Waypoints 2;M* Inflated;Python (TU);179565;368;52
+48;Overlapping Waypoints 2;M* Inflated;Python (TU);179545;404;49
+48;Overlapping Waypoints 2;M* Inflated;Python (TU);179525;520;48
+48;Overlapping Waypoints 2;M* Inflated;Python (TU);179505;444;595
+48;Overlapping Waypoints 2;M* Inflated;Python (TU);179485;494;58
+48;Overlapping Waypoints 2;M* Inflated;Python (TU);179465;380;47
+48;Overlapping Waypoints 2;M* Inflated;Python (TU);179425;408;90
+48;Overlapping Waypoints 2;M* Inflated;Python (TU);179405;404;95
+48;Overlapping Waypoints 2;M* Inflated;Python (TU);179385;409;63
+48;Overlapping Waypoints 2;Unordered MLA* v2;linear, resting, dist (TU);213942;358;32
+48;Overlapping Waypoints 2;Unordered MLA* v2;linear, resting, dist (TU);213940;598;39
+48;Overlapping Waypoints 2;Unordered MLA* v2;linear, resting, dist (TU);213938;553;37
+48;Overlapping Waypoints 2;Unordered MLA* v2;linear, resting, dist (TU);213936;449;33
+48;Overlapping Waypoints 2;Unordered MLA* v2;linear, resting, dist (TU);213954;479;31
+48;Overlapping Waypoints 2;Unordered MLA* v2;linear, resting, dist (TU);213952;374;23
+48;Overlapping Waypoints 2;Unordered MLA* v2;linear, resting, dist (TU);213950;376;25
+48;Overlapping Waypoints 2;Unordered MLA* v2;linear, resting, dist (TU);213948;546;40
+48;Overlapping Waypoints 2;Unordered MLA* v2;linear, resting, dist (TU);213946;392;20
+48;Overlapping Waypoints 2;Unordered MLA* v2;linear, resting, dist (TU);213944;535;37
+49;Overlapping Waypoints 3;A*+OD+ID;correct TSP cache (TU);60555;479;32588
+49;Overlapping Waypoints 3;A*+OD+ID;correct TSP cache (TU);60573;384;8978
+49;Overlapping Waypoints 3;A*+OD+ID;correct TSP cache (TU);60603;547;13081
+49;Overlapping Waypoints 3;A*+OD+ID;correct TSP cache (TU);60614;301;9057
+49;Overlapping Waypoints 3;A*+OD+ID;correct TSP cache (TU);60644;478;8328
+49;Overlapping Waypoints 3;A*+OD+ID;correct TSP cache (TU);60660;434;33719
+49;Overlapping Waypoints 3;A*+OD+ID;correct TSP cache (TU);60527;;123568
+49;Overlapping Waypoints 3;A*+OD+ID;correct TSP cache (TU);60515;465;1450
+49;Overlapping Waypoints 3;A*+OD+ID;correct TSP cache (TU);60480;;123521
+49;Overlapping Waypoints 3;A*+OD+ID;correct TSP cache (TU);60469;417;57019
+49;Overlapping Waypoints 3;BCP;heuristic-based waypoints 64 (TUD);60983;476;1935
+49;Overlapping Waypoints 3;BCP;heuristic-based waypoints 64 (TUD);60561;429;937
+49;Overlapping Waypoints 3;BCP;heuristic-based waypoints 64 (TUD);60443;516;7690
+49;Overlapping Waypoints 3;BCP;heuristic-based waypoints 64 (TUD);60019;428;740
+49;Overlapping Waypoints 3;BCP;heuristic-based waypoints 64 (TUD);58599;566;1526
+49;Overlapping Waypoints 3;BCP;heuristic-based waypoints 64 (TUD);56429;518;1511
+49;Overlapping Waypoints 3;BCP;heuristic-based waypoints 64 (TUD);54759;476;14971
+49;Overlapping Waypoints 3;BCP;heuristic-based waypoints 64 (TUD);52389;518;307
+49;Overlapping Waypoints 3;BCP;heuristic-based waypoints 64 (TUD);60671;406;1372
+49;Overlapping Waypoints 3;BCP;heuristic-based waypoints 64 (TUD);60691;376;321
+49;Overlapping Waypoints 3;CBS;(TUD);47804;;3019
+49;Overlapping Waypoints 3;CBS;(TUD);47914;398;267
+49;Overlapping Waypoints 3;CBS;(TUD);47784;461;1057
+49;Overlapping Waypoints 3;CBS;(TUD);47714;507;1066
+49;Overlapping Waypoints 3;CBS;(TUD);47644;466;306
+49;Overlapping Waypoints 3;CBS;(TUD);47624;;3035
+49;Overlapping Waypoints 3;CBS;(TUD);47604;;1034
+49;Overlapping Waypoints 3;CBS;(TUD);47874;461;404
+49;Overlapping Waypoints 3;CBS;(TUD);48098;446;172
+49;Overlapping Waypoints 3;CBS;(TUD);47894;409;176
+49;Overlapping Waypoints 3;CBS;(TUD_voor_timons_vergelijking);201349;493;165
+49;Overlapping Waypoints 3;CBS;(TUD_voor_timons_vergelijking);201329;499;2722
+49;Overlapping Waypoints 3;CBS;(TUD_voor_timons_vergelijking);201309;479;274
+49;Overlapping Waypoints 3;CBS;(TUD_voor_timons_vergelijking);201289;535;195
+49;Overlapping Waypoints 3;CBS;(TUD_voor_timons_vergelijking);201449;475;203
+49;Overlapping Waypoints 3;CBS;(TUD_voor_timons_vergelijking);201429;427;241
+49;Overlapping Waypoints 3;CBS;(TUD_voor_timons_vergelijking);201409;492;802
+49;Overlapping Waypoints 3;CBS;(TUD_voor_timons_vergelijking);201389;534;1606
+49;Overlapping Waypoints 3;CBS;(TUD_voor_timons_vergelijking);201469;545;5503
+49;Overlapping Waypoints 3;CBS;(TUD_voor_timons_vergelijking);201369;441;182
+49;Overlapping Waypoints 3;M*;Python (TU);179316;;20296
+49;Overlapping Waypoints 3;M*;Python (TU);179296;367;63
+49;Overlapping Waypoints 3;M*;Python (TU);179276;;20247
+49;Overlapping Waypoints 3;M*;Python (TU);179256;;20357
+49;Overlapping Waypoints 3;M*;Python (TU);179236;;20312
+49;Overlapping Waypoints 3;M*;Python (TU);179216;;20375
+49;Overlapping Waypoints 3;M*;Python (TU);179196;;20342
+49;Overlapping Waypoints 3;M*;Python (TU);179076;;20224
+49;Overlapping Waypoints 3;M*;Python (TU);178956;;20356
+49;Overlapping Waypoints 3;M*;Python (TU);178886;;20240
+49;Overlapping Waypoints 3;M* Inflated;Python (TU);179386;437;233
+49;Overlapping Waypoints 3;M* Inflated;Python (TU);179406;514;75
+49;Overlapping Waypoints 3;M* Inflated;Python (TU);179426;433;97
+49;Overlapping Waypoints 3;M* Inflated;Python (TU);179446;528;108
+49;Overlapping Waypoints 3;M* Inflated;Python (TU);179466;532;68
+49;Overlapping Waypoints 3;M* Inflated;Python (TU);179486;518;194
+49;Overlapping Waypoints 3;M* Inflated;Python (TU);179506;505;70
+49;Overlapping Waypoints 3;M* Inflated;Python (TU);179526;529;99
+49;Overlapping Waypoints 3;M* Inflated;Python (TU);179546;485;64
+49;Overlapping Waypoints 3;M* Inflated;Python (TU);179566;470;116
+49;Overlapping Waypoints 3;Unordered MLA* v2;linear, resting, dist (TU);213991;572;31
+49;Overlapping Waypoints 3;Unordered MLA* v2;linear, resting, dist (TU);213987;509;30
+49;Overlapping Waypoints 3;Unordered MLA* v2;linear, resting, dist (TU);213983;600;32
+49;Overlapping Waypoints 3;Unordered MLA* v2;linear, resting, dist (TU);213979;430;23
+49;Overlapping Waypoints 3;Unordered MLA* v2;linear, resting, dist (TU);213955;653;50
+49;Overlapping Waypoints 3;Unordered MLA* v2;linear, resting, dist (TU);213975;655;49
+49;Overlapping Waypoints 3;Unordered MLA* v2;linear, resting, dist (TU);213971;559;28
+49;Overlapping Waypoints 3;Unordered MLA* v2;linear, resting, dist (TU);213967;533;28
+49;Overlapping Waypoints 3;Unordered MLA* v2;linear, resting, dist (TU);213963;553;57
+49;Overlapping Waypoints 3;Unordered MLA* v2;linear, resting, dist (TU);213959;613;29
+50;Overlapping Waypoints 4;A*+OD+ID;correct TSP cache (TU);60556;544;5637
+50;Overlapping Waypoints 4;A*+OD+ID;correct TSP cache (TU);60662;599;576
+50;Overlapping Waypoints 4;A*+OD+ID;correct TSP cache (TU);60645;500;29087
+50;Overlapping Waypoints 4;A*+OD+ID;correct TSP cache (TU);60615;479;602
+50;Overlapping Waypoints 4;A*+OD+ID;correct TSP cache (TU);60608;566;17473
+50;Overlapping Waypoints 4;A*+OD+ID;correct TSP cache (TU);60577;423;659
+50;Overlapping Waypoints 4;A*+OD+ID;correct TSP cache (TU);60530;442;2192
+50;Overlapping Waypoints 4;A*+OD+ID;correct TSP cache (TU);60516;475;456
+50;Overlapping Waypoints 4;A*+OD+ID;correct TSP cache (TU);60482;419;503
+50;Overlapping Waypoints 4;A*+OD+ID;correct TSP cache (TU);60472;480;793
+50;Overlapping Waypoints 4;BCP;heuristic-based waypoints 64 (TUD);60984;554;17183
+50;Overlapping Waypoints 4;BCP;heuristic-based waypoints 64 (TUD);52390;512;732
+50;Overlapping Waypoints 4;BCP;heuristic-based waypoints 64 (TUD);54760;549;3387
+50;Overlapping Waypoints 4;BCP;heuristic-based waypoints 64 (TUD);56430;545;2423
+50;Overlapping Waypoints 4;BCP;heuristic-based waypoints 64 (TUD);58600;602;2909
+50;Overlapping Waypoints 4;BCP;heuristic-based waypoints 64 (TUD);60020;484;1591
+50;Overlapping Waypoints 4;BCP;heuristic-based waypoints 64 (TUD);60445;507;6806
+50;Overlapping Waypoints 4;BCP;heuristic-based waypoints 64 (TUD);60562;462;1118
+50;Overlapping Waypoints 4;BCP;heuristic-based waypoints 64 (TUD);60672;483;7739
+50;Overlapping Waypoints 4;BCP;heuristic-based waypoints 64 (TUD);60692;396;8272
+50;Overlapping Waypoints 4;CBS;(TUD);47605;528;321
+50;Overlapping Waypoints 4;CBS;(TUD);47625;544;704
+50;Overlapping Waypoints 4;CBS;(TUD);47645;579;526
+50;Overlapping Waypoints 4;CBS;(TUD);47715;521;250
+50;Overlapping Waypoints 4;CBS;(TUD);47785;542;1100
+50;Overlapping Waypoints 4;CBS;(TUD);47805;437;406
+50;Overlapping Waypoints 4;CBS;(TUD);47875;604;277
+50;Overlapping Waypoints 4;CBS;(TUD);47895;608;955
+50;Overlapping Waypoints 4;CBS;(TUD);47915;529;270
+50;Overlapping Waypoints 4;CBS;(TUD);48099;506;1144
+50;Overlapping Waypoints 4;CBS;(TUD_voor_timons_vergelijking);201450;544;355
+50;Overlapping Waypoints 4;CBS;(TUD_voor_timons_vergelijking);201470;496;193
+50;Overlapping Waypoints 4;CBS;(TUD_voor_timons_vergelijking);201290;672;734
+50;Overlapping Waypoints 4;CBS;(TUD_voor_timons_vergelijking);201310;542;256
+50;Overlapping Waypoints 4;CBS;(TUD_voor_timons_vergelijking);201330;580;5682
+50;Overlapping Waypoints 4;CBS;(TUD_voor_timons_vergelijking);201350;469;314
+50;Overlapping Waypoints 4;CBS;(TUD_voor_timons_vergelijking);201370;433;258
+50;Overlapping Waypoints 4;CBS;(TUD_voor_timons_vergelijking);201390;483;333
+50;Overlapping Waypoints 4;CBS;(TUD_voor_timons_vergelijking);201410;477;379
+50;Overlapping Waypoints 4;CBS;(TUD_voor_timons_vergelijking);201430;577;3210
+50;Overlapping Waypoints 4;M*;Python (TU);178887;429;159
+50;Overlapping Waypoints 4;M*;Python (TU);178957;;20247
+50;Overlapping Waypoints 4;M*;Python (TU);179077;;20348
+50;Overlapping Waypoints 4;M*;Python (TU);179197;;20350
+50;Overlapping Waypoints 4;M*;Python (TU);179217;;20302
+50;Overlapping Waypoints 4;M*;Python (TU);179237;;20290
+50;Overlapping Waypoints 4;M*;Python (TU);179257;529;1583
+50;Overlapping Waypoints 4;M*;Python (TU);179277;;20281
+50;Overlapping Waypoints 4;M*;Python (TU);179297;;20263
+50;Overlapping Waypoints 4;M*;Python (TU);179317;;20297
+50;Overlapping Waypoints 4;M* Inflated;Python (TU);179407;464;133
+50;Overlapping Waypoints 4;M* Inflated;Python (TU);179567;430;298
+50;Overlapping Waypoints 4;M* Inflated;Python (TU);179547;531;182
+50;Overlapping Waypoints 4;M* Inflated;Python (TU);179527;409;484
+50;Overlapping Waypoints 4;M* Inflated;Python (TU);179507;496;129
+50;Overlapping Waypoints 4;M* Inflated;Python (TU);179487;616;128
+50;Overlapping Waypoints 4;M* Inflated;Python (TU);179467;544;179
+50;Overlapping Waypoints 4;M* Inflated;Python (TU);179447;518;195
+50;Overlapping Waypoints 4;M* Inflated;Python (TU);179427;539;139
+50;Overlapping Waypoints 4;M* Inflated;Python (TU);179387;557;143
+50;Overlapping Waypoints 4;Unordered MLA* v2;linear, resting, dist (TU);213976;683;39
+50;Overlapping Waypoints 4;Unordered MLA* v2;linear, resting, dist (TU);213984;567;37
+50;Overlapping Waypoints 4;Unordered MLA* v2;linear, resting, dist (TU);213988;599;55
+50;Overlapping Waypoints 4;Unordered MLA* v2;linear, resting, dist (TU);213972;640;28
+50;Overlapping Waypoints 4;Unordered MLA* v2;linear, resting, dist (TU);213968;616;33
+50;Overlapping Waypoints 4;Unordered MLA* v2;linear, resting, dist (TU);213964;758;55
+50;Overlapping Waypoints 4;Unordered MLA* v2;linear, resting, dist (TU);213960;767;52
+50;Overlapping Waypoints 4;Unordered MLA* v2;linear, resting, dist (TU);213992;484;46
+50;Overlapping Waypoints 4;Unordered MLA* v2;linear, resting, dist (TU);213956;611;41
+50;Overlapping Waypoints 4;Unordered MLA* v2;linear, resting, dist (TU);213980;691;73
+51;Overlapping Waypoints 5;A*+OD+ID;correct TSP cache (TU);60531;511;5305
+51;Overlapping Waypoints 5;A*+OD+ID;correct TSP cache (TU);60517;504;899
+51;Overlapping Waypoints 5;A*+OD+ID;correct TSP cache (TU);60483;456;79601
+51;Overlapping Waypoints 5;A*+OD+ID;correct TSP cache (TU);60473;;121378
+51;Overlapping Waypoints 5;A*+OD+ID;correct TSP cache (TU);60650;;125386
+51;Overlapping Waypoints 5;A*+OD+ID;correct TSP cache (TU);60616;;123719
+51;Overlapping Waypoints 5;A*+OD+ID;correct TSP cache (TU);60609;590;2535
+51;Overlapping Waypoints 5;A*+OD+ID;correct TSP cache (TU);60578;587;870
+51;Overlapping Waypoints 5;A*+OD+ID;correct TSP cache (TU);60663;;121339
+51;Overlapping Waypoints 5;A*+OD+ID;correct TSP cache (TU);60557;;124432
+51;Overlapping Waypoints 5;BCP;heuristic-based waypoints 64 (TUD);60021;521;23479
+51;Overlapping Waypoints 5;BCP;heuristic-based waypoints 64 (TUD);60693;454;7146
+51;Overlapping Waypoints 5;BCP;heuristic-based waypoints 64 (TUD);60673;525;19947
+51;Overlapping Waypoints 5;BCP;heuristic-based waypoints 64 (TUD);60563;585;600916
+51;Overlapping Waypoints 5;BCP;heuristic-based waypoints 64 (TUD);60446;610;340053
+51;Overlapping Waypoints 5;BCP;heuristic-based waypoints 64 (TUD);60985;457;13216
+51;Overlapping Waypoints 5;BCP;heuristic-based waypoints 64 (TUD);58601;526;101682
+51;Overlapping Waypoints 5;BCP;heuristic-based waypoints 64 (TUD);56431;502;601075
+51;Overlapping Waypoints 5;BCP;heuristic-based waypoints 64 (TUD);54761;523;42273
+51;Overlapping Waypoints 5;BCP;heuristic-based waypoints 64 (TUD);52391;559;12643
+51;Overlapping Waypoints 5;CBS;(TUD);47896;684;913
+51;Overlapping Waypoints 5;CBS;(TUD);47606;593;796
+51;Overlapping Waypoints 5;CBS;(TUD);47626;;3036
+51;Overlapping Waypoints 5;CBS;(TUD);47646;;3030
+51;Overlapping Waypoints 5;CBS;(TUD);47716;541;860
+51;Overlapping Waypoints 5;CBS;(TUD);47786;565;1453
+51;Overlapping Waypoints 5;CBS;(TUD);47806;559;2090
+51;Overlapping Waypoints 5;CBS;(TUD);48100;400;1118
+51;Overlapping Waypoints 5;CBS;(TUD);47876;599;728
+51;Overlapping Waypoints 5;CBS;(TUD);47916;493;1015
+51;Overlapping Waypoints 5;CBS;(TUD_voor_timons_vergelijking);201411;478;2624
+51;Overlapping Waypoints 5;CBS;(TUD_voor_timons_vergelijking);201291;503;4737
+51;Overlapping Waypoints 5;CBS;(TUD_voor_timons_vergelijking);201311;429;752
+51;Overlapping Waypoints 5;CBS;(TUD_voor_timons_vergelijking);201331;596;3738
+51;Overlapping Waypoints 5;CBS;(TUD_voor_timons_vergelijking);201351;626;702
+51;Overlapping Waypoints 5;CBS;(TUD_voor_timons_vergelijking);201371;666;5268
+51;Overlapping Waypoints 5;CBS;(TUD_voor_timons_vergelijking);201391;650;1059
+51;Overlapping Waypoints 5;CBS;(TUD_voor_timons_vergelijking);201431;577;747
+51;Overlapping Waypoints 5;CBS;(TUD_voor_timons_vergelijking);201451;574;2761
+51;Overlapping Waypoints 5;CBS;(TUD_voor_timons_vergelijking);201471;549;807
+51;Overlapping Waypoints 5;M*;Python (TU);179298;;20202
+51;Overlapping Waypoints 5;M*;Python (TU);179318;;20175
+51;Overlapping Waypoints 5;M*;Python (TU);179258;;20233
+51;Overlapping Waypoints 5;M*;Python (TU);179238;;20265
+51;Overlapping Waypoints 5;M*;Python (TU);179218;;20359
+51;Overlapping Waypoints 5;M*;Python (TU);179198;;20239
+51;Overlapping Waypoints 5;M*;Python (TU);179278;;20363
+51;Overlapping Waypoints 5;M*;Python (TU);179128;;20300
+51;Overlapping Waypoints 5;M*;Python (TU);178958;;20357
+51;Overlapping Waypoints 5;M*;Python (TU);178888;;20335
+51;Overlapping Waypoints 5;M* Inflated;Python (TU);179408;460;418
+51;Overlapping Waypoints 5;M* Inflated;Python (TU);179388;445;392
+51;Overlapping Waypoints 5;M* Inflated;Python (TU);179568;558;407
+51;Overlapping Waypoints 5;M* Inflated;Python (TU);179548;622;1904
+51;Overlapping Waypoints 5;M* Inflated;Python (TU);179528;539;372
+51;Overlapping Waypoints 5;M* Inflated;Python (TU);179508;634;712
+51;Overlapping Waypoints 5;M* Inflated;Python (TU);179488;503;405
+51;Overlapping Waypoints 5;M* Inflated;Python (TU);179468;638;598
+51;Overlapping Waypoints 5;M* Inflated;Python (TU);179448;500;550
+51;Overlapping Waypoints 5;M* Inflated;Python (TU);179428;484;391
+51;Overlapping Waypoints 5;Unordered MLA* v2;linear, resting, dist (TU);213993;798;101
+51;Overlapping Waypoints 5;Unordered MLA* v2;linear, resting, dist (TU);213961;740;54
+51;Overlapping Waypoints 5;Unordered MLA* v2;linear, resting, dist (TU);213957;808;29
+51;Overlapping Waypoints 5;Unordered MLA* v2;linear, resting, dist (TU);213965;792;53
+51;Overlapping Waypoints 5;Unordered MLA* v2;linear, resting, dist (TU);213969;626;53
+51;Overlapping Waypoints 5;Unordered MLA* v2;linear, resting, dist (TU);213973;770;39
+51;Overlapping Waypoints 5;Unordered MLA* v2;linear, resting, dist (TU);213977;868;43
+51;Overlapping Waypoints 5;Unordered MLA* v2;linear, resting, dist (TU);213981;604;28
+51;Overlapping Waypoints 5;Unordered MLA* v2;linear, resting, dist (TU);213985;808;31
+51;Overlapping Waypoints 5;Unordered MLA* v2;linear, resting, dist (TU);213989;673;28
+52;Test map;Unordered MLA* v2;linear, resting, dist (TU);213958;512;28
+52;Test map;Unordered MLA* v2;linear, resting, dist (TU);213962;598;35
+52;Test map;Unordered MLA* v2;linear, resting, dist (TU);213966;540;30
+52;Test map;Unordered MLA* v2;linear, resting, dist (TU);213970;568;37
+52;Test map;Unordered MLA* v2;linear, resting, dist (TU);213974;571;32
+52;Test map;Unordered MLA* v2;linear, resting, dist (TU);213978;605;35
+52;Test map;Unordered MLA* v2;linear, resting, dist (TU);213982;552;29
+52;Test map;Unordered MLA* v2;linear, resting, dist (TU);213986;619;34
+52;Test map;Unordered MLA* v2;linear, resting, dist (TU);213990;523;31
+52;Test map;Unordered MLA* v2;linear, resting, dist (TU);213994;633;30
